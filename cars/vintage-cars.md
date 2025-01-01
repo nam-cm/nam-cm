@@ -2,7 +2,10 @@
 
 | ทะเบียน 车牌号 | ปี 年份 | ยี่ห้อ 品牌 | แบบ 型号 | ไมล์สะสม 里程 | สถานที่ 位置 | เบ็ดเตล็ด 备注 | ราคา 价格 |
 |---|---|---|---|---|---|---|---|
+| ฌช 8453 กรุงเทพมหานคร | 1965 | Volkswagen | Beetle || เชียงใหม่ 清迈 || [430,000](https://www.facebook.com/marketplace/item/1588875361721114/) |
 | กพ 1615 เพชรบุรี | 1968 | Volkswagen | Beetle || ลำพูน 南奔 || [222,000](https://www.facebook.com/marketplace/item/1113498116934615/) |
+| 5 กบ 3042 กรุงเทพมหานคร | 1974 | Volkswagen | Beetle || เชียงใหม่ 清迈 || [390,000](https://www.facebook.com/marketplace/item/629572369534015/) |
+|| 1997 | Volkswagen | Passat | เชียงใหม่ 清迈 || [59,900](https://www.facebook.com/marketplace/item/8846892975431037/) |
 | กค 1878 พะเยา | 1978 | Mercedes-Benz | W115 || เชียงใหม่ 清迈 || [155,000](https://www.facebook.com/marketplace/item/940967687548517/) |
 | กร 5872 ลำปาง | 1984 | Mercedes-Benz | W201 190E | 260,000+ | ลำปาง 南邦 || [85,000](https://www.facebook.com/marketplace/item/484391704457294/) |
 || 1992 | Mercedes-Benz | W124 || เชียงใหม่ 清迈 || [69,000](https://www.facebook.com/marketplace/item/1722384285203739/) |
