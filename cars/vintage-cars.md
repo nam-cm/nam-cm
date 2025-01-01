@@ -11,7 +11,7 @@
 || 1992 | Mercedes-Benz | W124 || เชียงใหม่ 清迈 || [69,000](https://www.facebook.com/marketplace/item/1722384285203739/) |
 | กจ 8335 แพร่ | 1994 | Mercedes-Benz | W124 E280 | 360,000+ | เชียงใหม่ 清迈 || [72,000](https://www.facebook.com/marketplace/item/1868702200650168/) |
 | งธ 6527 เชียงใหม่ | 1995 | Mercedes-Benz | W210 E220 || เชียงใหม่ 清迈 || [88,000](https://www.facebook.com/marketplace/item/3854643701530593/) |
-| งร 2937 เชียงใหม่ | 1997 | Mercedes-Benz | W210 E280 | 111,111 | เชียงใหม่ 清迈 || [99,000](https://www.facebook.com/marketplace/item/492595770516136/) |
+| งร 2937 เชียงใหม่ | 1997 | Mercedes-Benz | W210 E280 || เชียงใหม่ 清迈 || [99,000](https://www.facebook.com/marketplace/item/492595770516136/) |
 | จย 316 เชียงใหม่ | 1990 | BMW | E30 316i || เชียงใหม่ 清迈 | ดีมาก 车况好 | [135,000](https://www.facebook.com/marketplace/item/1990365271443382/) |
 || 1990 | BMW | E30 || ลำพูน 南奔 || [89,000](https://www.facebook.com/marketplace/item/2052046408574681/) |
 | กจ 6800 อุตรดิตถ์ | 1996 | BMW | E36 316i || เชียงใหม่ 清迈 || [245,000](https://www.facebook.com/marketplace/item/957865196055853/) |
