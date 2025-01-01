@@ -3,16 +3,17 @@
 | ทะเบียน 车牌号 | ปี 年份 | ยี่ห้อ 品牌 | แบบ 型号 | ไมล์สะสม 里程 | สถานที่ 位置 | เบ็ดเตล็ด 备注 | ราคา 价格 |
 |---|---|---|---|---|---|---|---|
 || 1996 | Rolls-Royce | Silver Spur | 5,000+ | เชียงใหม่ 清迈 || [4,890,000](https://www.facebook.com/marketplace/item/935185451750858/) |
+| * 666 * | 1966 | Porsche | 912 || เชียงใหม่ 清迈 || [16,000,000](https://www.facebook.com/marketplace/item/500888962515816/) |
 | 2ขอ 7685 กรุงเทพมหานคร | 1965 | Volkswagen | Type 3 Notchback || เชียงใหม่ 清迈 || [500,000](https://www.facebook.com/marketplace/item/876220217176507/) |
 | ฌช 8453 กรุงเทพมหานคร | 1965 | Volkswagen | Beetle || เชียงใหม่ 清迈 || [430,000](https://www.facebook.com/marketplace/item/1588875361721114/) |
 | กพ 1615 เพชรบุรี | 1968 | Volkswagen | Beetle || ลำพูน 南奔 || [222,000](https://www.facebook.com/marketplace/item/1113498116934615/) |
 || 1971 | Volkswagen | Beetle || เชียงใหม่ 清迈 || [369,000](https://www.facebook.com/marketplace/item/1070278047735448/) |
 | 5กบ 3042 กรุงเทพมหานคร | 1974 | Volkswagen | Beetle || เชียงใหม่ 清迈 || [390,000](https://www.facebook.com/marketplace/item/629572369534015/) |
 || 1997 | Volkswagen | Passat || เชียงใหม่ 清迈 || [59,900](https://www.facebook.com/marketplace/item/8846892975431037/) |
+| * 7575 กรุงเทพมหานคร | 1958 | Mercedes-Benz | Ponton 220S || เชียงใหม่ 清迈 || [3,000,000](https://www.facebook.com/marketplace/item/8811895775528137/) |
 | กค 1878 พะเยา | 1978 | Mercedes-Benz | W115 || เชียงใหม่ 清迈 || [155,000](https://www.facebook.com/marketplace/item/940967687548517/) |
 | กร 5872 ลำปาง | 1984 | Mercedes-Benz | W201 190E | 260,000+ | ลำปาง 南邦 || [85,000](https://www.facebook.com/marketplace/item/484391704457294/) |
 | จค 6027 เชียงใหม่ | 1993 | Mercedes-Benz | W201 190E || เชียงใหม่ 清迈 || [125,000](https://www.facebook.com/marketplace/item/943604177232283/) |
-||| Mercedes-Benz | W123 230E || ลำพูน 南奔 || [80,000](https://www.facebook.com/marketplace/item/870478725283425/) |
 || 1992 | Mercedes-Benz | W124 || เชียงใหม่ 清迈 || [69,000](https://www.facebook.com/marketplace/item/1722384285203739/) |
 | จร 614 เชียงใหม่ | 1994 | Mercedes-Benz | W124 E220 || ลำพูน 南奔 || [120,000](https://www.facebook.com/marketplace/item/1650635649193417/) |
 | กจ 8335 แพร่ | 1994 | Mercedes-Benz | W124 E280 | 360,000+ | เชียงใหม่ 清迈 || [72,000](https://www.facebook.com/marketplace/item/1868702200650168/) |
@@ -50,8 +51,10 @@
 | กจ 3593 เชียงใหม่ | 1987 | Citroën | BX 16 RS || เชียงใหม่ 清迈 || [45,000](https://www.facebook.com/marketplace/item/1081561616884622/) |
 | จฉ 2033 เชียงใหม่ | 1996 | Volvo | 850 GLE | 160,000+ | ลำปาง 南邦 || [69,000](https://www.facebook.com/marketplace/item/558719666842480/) |
 | กท 602 ลำพูน | 1997 | Volvo | 940 SE | 310,000+ | เชียงใหม่ 清迈 || [50,000](https://www.facebook.com/marketplace/item/584301344389714/) |
+| จฉ 4190 เชียงใหม่ | 1965 | Ford | Consul 315 || เชียงใหม่ 清迈 || [2,000,000](https://www.facebook.com/marketplace/item/452492434428703/) |
 || 1973 | Ford | Cortina GXL || ลำปาง 南邦 || [85,000](https://www.facebook.com/marketplace/item/409030665567471/) |
 | ?? 3963 กรุงเทพมหานคร | 1989 | Land Rover | Discovery || ลำพูน 南奔 || [120,000](https://www.facebook.com/marketplace/item/575730231630089/) |
+| ษด 65 เชียงใหม่ | 1962 | Jeep | CJ-3B || เชียงใหม่ 清迈 || [280,000](https://www.facebook.com/marketplace/item/407970675375436/) |
 | กข 1703 พะเยา | 1995 | Jeep | Grand Cherokee | 230,000+ | เชียงใหม่ 清迈 || [79,500](https://www.facebook.com/marketplace/item/888860272684795/) |
 | จค 2572 เชียงใหม่ | 1995 | Jeep | Cherokee || เชียงใหม่ 清迈 || [195,000](https://www.facebook.com/marketplace/item/2026554874462352/) |
 || 1999 | Jeep | Cherokee || เชียงใหม่ 清迈 || [220,000](https://www.facebook.com/marketplace/item/323167047531275/) |
