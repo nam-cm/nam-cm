@@ -2,7 +2,7 @@
 |---|---|---|---|---|---|---|---|
 | กพ 1615 เพชรบุรี | 1968 | Volkswagen | Beetle || ลำพูน 南奔 || [222,000](https://www.facebook.com/marketplace/item/1113498116934615/) |
 | กค 1878 พะเยา | 1978 | Mercedes-Benz | W115 || เชียงใหม่ 清迈 || [155,000](https://www.facebook.com/marketplace/item/940967687548517/) |
-| กร 5872 ลำปาง | 1984 | Mercedes-Benz | 190E | 260,000+ | ลำปาง 南邦 || [85,000](https://www.facebook.com/marketplace/item/484391704457294/) |
+| กร 5872 ลำปาง | 1984 | Mercedes-Benz | W201 190E | 260,000+ | ลำปาง 南邦 || [85,000](https://www.facebook.com/marketplace/item/484391704457294/) |
 || 1992 | Mercedes-Benz | W124 || เชียงใหม่ 清迈 || [69,000](https://www.facebook.com/marketplace/item/1722384285203739/) |
 | กจ 8335 แพร่ | 1994 | Mercedes-Benz | W124 E280 | 360,000+ | เชียงใหม่ 清迈 || [72,000](https://www.facebook.com/marketplace/item/1868702200650168/) |
 | งธ 6527 เชียงใหม่ | 1995 | Mercedes-Benz | W210 E220 || เชียงใหม่ 清迈 || [88,000](https://www.facebook.com/marketplace/item/3854643701530593/) |
