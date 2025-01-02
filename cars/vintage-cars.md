@@ -74,9 +74,9 @@
 || 1973 | Ford | Cortina GXL || ลำปาง 南邦 || [85,000](https://www.facebook.com/marketplace/item/409030665567471/) |
 | ขร 381 เชียงใหม่ | 1997 | Ford | Capri XR2 || เชียงใหม่ 清迈 || [205,000](https://www.facebook.com/marketplace/item/878684140959424/) |
 | ?? 3963 กรุงเทพมหานคร | 1989 | Land Rover | Discovery || ลำพูน 南奔 || [120,000](https://www.facebook.com/marketplace/item/575730231630089/) |
-| พห 8313 นครปฐม | 1973 | Jeep | CJ6 || เชียงใหม่ 清迈 || [180,000](https://www.facebook.com/marketplace/item/606637888578015/) |
 || 1995 | Land Rover | Discovery || เชียงใหม่ 清迈 || [350,000](https://www.facebook.com/marketplace/item/3765956973617111/) |
 | ษด 65 เชียงใหม่ | 1962 | Jeep | CJ-3B || เชียงใหม่ 清迈 || [280,000](https://www.facebook.com/marketplace/item/407970675375436/) |
+| พห 8313 นครปฐม | 1973 | Jeep | CJ6 || เชียงใหม่ 清迈 || [180,000](https://www.facebook.com/marketplace/item/606637888578015/) |
 | กข 1703 พะเยา | 1995 | Jeep | Grand Cherokee | 230,000+ | เชียงใหม่ 清迈 || [79,500](https://www.facebook.com/marketplace/item/888860272684795/) |
 | จค 2572 เชียงใหม่ | 1995 | Jeep | Cherokee || เชียงใหม่ 清迈 || [195,000](https://www.facebook.com/marketplace/item/2026554874462352/) |
 || 1999 | Jeep | Cherokee || เชียงใหม่ 清迈 || [220,000](https://www.facebook.com/marketplace/item/323167047531275/) |
