@@ -61,7 +61,7 @@
 | 3ขย 5073 | 1996 | BMW | E36 | 180,000+ | เชียงใหม่ 清迈 || [285,000](https://www.facebook.com/marketplace/item/1284316029443189/) |
 | งจ 3391 เชียงใหม่ | 1997 | BMW | E34 525i | 300,000+ | เชียงใหม่ 清迈 | Toyota engine | [149,000](https://www.facebook.com/marketplace/item/1072947734338884/) |
 | ขธ 4923 เชียงใหม่ | 1998 | BMW | E34 525i || เชียงใหม่ 清迈 || [119,000](https://www.facebook.com/marketplace/item/491587893915204/) |
-| จค 7949 เชียงใหม่ | 1999 | BMW E46 318i | 240,000+ | เชียงใหม่ 清迈 || [90,000](https://www.facebook.com/marketplace/item/359665237141365/) |
+| จค 7949 เชียงใหม่ | 1999 | BMW | E46 318i | 240,000+ | เชียงใหม่ 清迈 || [90,000](https://www.facebook.com/marketplace/item/359665237141365/) |
 | 7อ 6029 กรุงเทพมหานคร | 1993 | Mini | Cooper || เชียงใหม่ 清迈 || [2,199,000](https://www.facebook.com/marketplace/item/1230685648162910/) |
 | งษ 7660 เชียงใหม่ | 1947 | Fiat | 124 || เชียงใหม่ 清迈 || [140,000](https://www.facebook.com/marketplace/item/4014935955401258/) |
 | ก 1209 เชียงใหม่ | 1969 | Fiat | 1100 || เชียงใหม่ 清迈 || [50,000](https://www.facebook.com/marketplace/item/1284269332590230/) |
