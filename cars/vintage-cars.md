@@ -74,6 +74,7 @@
 || 1973 | Ford | Cortina GXL || ลำปาง 南邦 || [85,000](https://www.facebook.com/marketplace/item/409030665567471/) |
 | ขร 381 เชียงใหม่ | 1997 | Ford | Capri XR2 || เชียงใหม่ 清迈 || [205,000](https://www.facebook.com/marketplace/item/878684140959424/) |
 | ?? 3963 กรุงเทพมหานคร | 1989 | Land Rover | Discovery || ลำพูน 南奔 || [120,000](https://www.facebook.com/marketplace/item/575730231630089/) |
+| พห 8313 นครปฐม | 1973 | Jeep | CJ6 || เชียงใหม่ 清迈 || [180,000](https://www.facebook.com/marketplace/item/606637888578015/) |
 || 1995 | Land Rover | Discovery || เชียงใหม่ 清迈 || [350,000](https://www.facebook.com/marketplace/item/3765956973617111/) |
 | ษด 65 เชียงใหม่ | 1962 | Jeep | CJ-3B || เชียงใหม่ 清迈 || [280,000](https://www.facebook.com/marketplace/item/407970675375436/) |
 | กข 1703 พะเยา | 1995 | Jeep | Grand Cherokee | 230,000+ | เชียงใหม่ 清迈 || [79,500](https://www.facebook.com/marketplace/item/888860272684795/) |
@@ -97,7 +98,8 @@
 | จจ 4472 เชียงใหม่ | 1986 | Suzuki | Jimmy | 150,000+ | เชียงใหม่ 清迈 || [385,000](https://www.facebook.com/marketplace/item/8430156537069245/) |
 | งจ 7016 เชียงใหม่ | 1992 | Suzuki | Vitara || เชียงใหม่ 清迈 || [181,000](https://www.facebook.com/marketplace/item/1742931809895171/) |
 | * 424 กรุงเทพมหานคร | 1993 | Suzuki | Vitara || เชียงใหม่ 清迈 || [450,000](https://www.facebook.com/marketplace/item/542433498715097/) |
-| ขห 3887 เชียงใหม่ | 1997 | Mazda | 323F Astina || || [39,000](https://www.facebook.com/marketplace/item/4266820143604439/) |
+| กธ 8354 แพร่ | 1995 | Mazda | 323 || เชียงใหม่ 清迈 || [450,000](https://www.facebook.com/marketplace/item/566989896218825/) |
+| ขห 3887 เชียงใหม่ | 1997 | Mazda | 323F Astina || เชียงใหม่ 清迈 || [39,000](https://www.facebook.com/marketplace/item/4266820143604439/) |
 | จก 851 เชียงใหม่ | 1996 | Kia | Sportage | 170,000+ | เชียงใหม่ 清迈 || [45,000](https://www.facebook.com/marketplace/item/1561120574530043/) |
 
 ## ติดต่อฉัน | 联系我
