@@ -87,6 +87,7 @@
 | งค 1103 เชียงใหม่ | 1977 | Toyota | Corolla KE30 || เชียงใหม่ 清迈 || [139,000](https://www.facebook.com/marketplace/item/873817584550942/) |
 | กก 9087 เชียงใหม่ | 1977 | Toyota | Corolla KE30 || เชียงใหม่ 清迈 || [27,000](https://www.facebook.com/marketplace/item/477925388298425/) |
 | กท 4570 ลำพูน | 1977 | Toyota | Corolla KE30 || ลำพูน 南奔 || [45,000](https://www.facebook.com/marketplace/item/888615160099114/) |
+| กก 5139 เชียงใหม่ | 1978 | Toyota | Corolla KE30 || เชียงใหม่ 清迈 || [69,000](https://www.facebook.com/marketplace/item/2359420914417259/) |
 || 1978 | Toyota | Corolla KE30 || ลำปาง 南邦 || [58,000](https://www.facebook.com/marketplace/item/1590165621545941/) |
 | จย 1832 เชียงใหม่ | 1970 | Toyota | Corolla KE35 || เชียงใหม่ 清迈 || [155,000](https://www.facebook.com/marketplace/item/1297243594584520/) |
 || 1980 | Toyota | Corolla KE70 | 250,000+ | เชียงใหม่ 清迈 || [45,000](https://www.facebook.com/marketplace/item/1137364031445694/) |
