@@ -117,8 +117,6 @@
 | จย 8553 เชียงใหม่ | 1993 || [189,000](https://www.facebook.com/marketplace/item/572197215772475/) |
 | **Mitsubishi** | **Galant** |
 | 2ช 3843 กรุงเทพมหานคร | 1980 || [110,000](https://www.facebook.com/marketplace/item/492347460227707/) |
-| **Mitsubishi** | **Pajero** |
-| กจ 2746 เชียงใหม่ | 1991 || [270,000](https://www.facebook.com/marketplace/item/778037454488314/) |
 | **Nissan** | **Sunny** |
 | กษ 5720 เชียงใหม่ | 1982 || [30,000](https://www.facebook.com/marketplace/item/1015882200253850/) |
 | **Suzuki** | **Jimmy** |
