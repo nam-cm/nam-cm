@@ -26,6 +26,7 @@
 | กฉ 5544 กรุงเทพมหานคร | 1968 | 280S | [380,000](https://www.facebook.com/marketplace/item/1232772117799334/) |
 | **Mercedes-Benz** | **W115** |
 | กค 1878 พะเยา | 1978 || [155,000](https://www.facebook.com/marketplace/item/940967687548517/) |
+| กข 4499 เชียงใหม่ | 1980 | 240D | [290,000](https://www.facebook.com/marketplace/item/2010851712749178/) |
 | **Mercedes-Benz** | **W116** |
 || 1980 | 280S | [50,000](https://www.facebook.com/marketplace/item/3921061621438516/) |
 | **Mercedes-Benz** | **W123** |
@@ -37,6 +38,7 @@
 | จค 6027 เชียงใหม่ | 1993 | 190E | [125,000](https://www.facebook.com/marketplace/item/943604177232283/) |
 | ฉบ 9322 กรุงเทพมหานคร | 1995 | 190E | [110,000](https://www.facebook.com/marketplace/item/1063714218643340/) |
 | **Mercedes-Benz** | **W124** |
+| งพ 2251 เชียงใหม่ | 1988 | 300D | [100,000](https://www.facebook.com/marketplace/item/587082240875774/) |
 | กค 9529 เชียงใหม่ | 1991 | 300D | [35,000](https://www.facebook.com/marketplace/item/430733762769755/) |
 || 1992 || [69,000](https://www.facebook.com/marketplace/item/1722384285203739/) |
 | จร 614 เชียงใหม่ | 1994 | E220 | [120,000](https://www.facebook.com/marketplace/item/1650635649193417/) |
@@ -116,6 +118,7 @@
 | **Honda** | **Prelude** |
 | จย 8553 เชียงใหม่ | 1993 || [189,000](https://www.facebook.com/marketplace/item/572197215772475/) |
 | **Mitsubishi** | **Galant** |
+|| 1978 || [28,500](https://www.facebook.com/marketplace/item/1250931422685850/) |
 | 2ช 3843 กรุงเทพมหานคร | 1980 || [110,000](https://www.facebook.com/marketplace/item/492347460227707/) |
 | **Nissan** | **Sunny** |
 | กษ 5720 เชียงใหม่ | 1982 || [30,000](https://www.facebook.com/marketplace/item/1015882200253850/) |
@@ -126,6 +129,8 @@
 | * 424 กรุงเทพมหานคร | 1993 || [450,000](https://www.facebook.com/marketplace/item/542433498715097/) |
 | **Mazda** | **323** |
 | กธ 8354 แพร่ | 1995 || [450,000](https://www.facebook.com/marketplace/item/566989896218825/) |
+| **Daihatsu** | **Mira** |
+| ยพ 3693 เชียงใหม่ | 1990 || [169,000](https://www.facebook.com/marketplace/item/1276990976839437/) |
 
 ## ติดต่อฉัน | 联系我
 
