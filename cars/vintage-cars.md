@@ -62,6 +62,7 @@
 | **BMW** | **E12** |
 | * 6?66 เชียงใหม่ | 1982 | 520 | [190,000](https://www.facebook.com/marketplace/item/1002861041477218/) |
 | **BMW** | **E30** |
+| กต 5501 เชียงใหม่ | 1986 | 316 | [42,000](https://www.facebook.com/marketplace/item/556692437142906/) |
 | 8กด 318 กรุงเทพมหานคร | 1987 | 318i | [399,000](https://www.facebook.com/marketplace/item/850705846619371/) |
 | กธ 30 เชียงใหม่ | 1988 | 318i | [385,000](https://www.facebook.com/marketplace/item/1268989624299268/) |
 | 4กย 890 กรุงเทพมหานคร | 1988 | 318i | [550,000](https://www.facebook.com/marketplace/item/1044006214145871/) |
