@@ -14,8 +14,6 @@
 | 5กบ 3042 กรุงเทพมหานคร | 1974 | Volkswagen | Beetle || เชียงใหม่ 清迈 || [390,000](https://www.facebook.com/marketplace/item/629572369534015/) |
 | ยท 6657 เชียงใหม่ | 1975 | Volkswagen | Type 2 || เชียงใหม่ 清迈 || [365,000](https://www.facebook.com/marketplace/item/1120061065739359/) |
 | * 7575 กรุงเทพมหานคร | 1958 | Mercedes-Benz | Ponton 220S || เชียงใหม่ 清迈 || [3,000,000](https://www.facebook.com/marketplace/item/8811895775528137/) |
-| ขม 8833 เชียงใหม่ | 1976 | Mercedes-Benz | W123 230E || เชียงใหม่ 清迈 | ขายแล้ว 已成交 | [750,000](https://www.facebook.com/marketplace/item/1070823884502588/) |
-| 8จ 3666 กรุงเทพมหานคร | 1982 | Mercedes-Benz | W123 300D || เชียงใหม่ 清迈 | ขายแล้ว 已成交 | [160,000](https://www.facebook.com/marketplace/item/1621347508806438/) |
 | กล 4596 เชียงใหม่ | 1989 | Mercedes-Benz | W123 280E || ลำพูน 南奔 | Jeep Wrangler engine, มาลัยซ้าย 左舵 | [39,000](https://www.facebook.com/marketplace/item/1224084922014329/) |
 | กค 1878 พะเยา | 1978 | Mercedes-Benz | W115 || เชียงใหม่ 清迈 || [155,000](https://www.facebook.com/marketplace/item/940967687548517/) |
 | กร 5872 ลำปาง | 1984 | Mercedes-Benz | W201 190E | 260,000+ | ลำปาง 南邦 || [85,000](https://www.facebook.com/marketplace/item/484391704457294/) |
@@ -27,7 +25,6 @@
 | กค 9529 เชียงใหม่ | 1991 | Mercedes-Benz | W124 300D || เชียงใหม่ 清迈 || [35,000](https://www.facebook.com/marketplace/item/430733762769755/) |
 || 1992 | Mercedes-Benz | W124 || เชียงใหม่ 清迈 || [69,000](https://www.facebook.com/marketplace/item/1722384285203739/) |
 | จร 614 เชียงใหม่ | 1994 | Mercedes-Benz | W124 E220 || ลำพูน 南奔 || [120,000](https://www.facebook.com/marketplace/item/1650635649193417/) |
-| กจ 8335 แพร่ | 1994 | Mercedes-Benz | W124 E280 | 360,000+ | เชียงใหม่ 清迈 | ขายแล้ว 已成交 | [72,000](https://www.facebook.com/marketplace/item/1868702200650168/) |
 || 1994 | Mercedes-Benz | W124 E300 | 190,000+ | เชียงใหม่ 清迈 || [139,000](https://www.facebook.com/marketplace/item/565844499305598/) |
 | กห 9439 เชียงใหม่ || Mercedes-Benz | W124 230E || เชียงใหม่ 清迈 || [55,000](https://www.facebook.com/marketplace/item/1649573152500189/) |
 || 1993 | Mercedes-Benz | W202 C180 || เชียงใหม่ 清迈 || [85,000](https://www.facebook.com/marketplace/item/1451882555487760/) |
@@ -41,7 +38,6 @@
 | งธ 6527 เชียงใหม่ | 1995 | Mercedes-Benz | W210 E220 || เชียงใหม่ 清迈 || [88,000](https://www.facebook.com/marketplace/item/3854643701530593/) |
 | * 6?66 เชียงใหม่ | 1982 | BMW | E12 520 | 210,000+ | เชียงใหม่ 清迈 || [190,000](https://www.facebook.com/marketplace/item/1002861041477218/) |
 | กข 4132 แพร่ | 1984 | BMW | E30 316 || ลำปาง 南邦 || [65,000](https://www.facebook.com/marketplace/item/428977836371014/) |
-| จย 316 เชียงใหม่ | 1990 | BMW | E30 316i || เชียงใหม่ 清迈 | ดีมาก 车况好 | [135,000](https://www.facebook.com/marketplace/item/1990365271443382/) |
 | จฉ 316 เชียงใหม่ | 1990 | BWM | E30 316i || เชียงใหม่ 清迈 || [129,000](https://www.facebook.com/marketplace/item/495365076315577/) |
 || 1990 | BMW | E30 || ลำพูน 南奔 || [89,000](https://www.facebook.com/marketplace/item/2052046408574681/) |
 | 8กด 318 กรุงเทพมหานคร | 1987 | BMW | E30 318i || เชียงใหม่ 清迈 || [399,000](https://www.facebook.com/marketplace/item/850705846619371/) |
