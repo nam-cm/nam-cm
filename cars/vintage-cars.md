@@ -62,7 +62,7 @@
 | **BMW** | **E12** |
 | * 6?66 เชียงใหม่ | 1982 | 520 | [190,000](https://www.facebook.com/marketplace/item/1002861041477218/) |
 | **BMW** | **E30** |
-| กต 5501 เชียงใหม่ | 1986 | 316 | [42,000](https://www.facebook.com/marketplace/item/556692437142906/) |
+| กต 5501 เชียงใหม่ | 1986 | 316; Toyota engine | [42,000](https://www.facebook.com/marketplace/item/556692437142906/) |
 | 8กด 318 กรุงเทพมหานคร | 1987 | 318i | [399,000](https://www.facebook.com/marketplace/item/850705846619371/) |
 | กธ 30 เชียงใหม่ | 1988 | 318i | [385,000](https://www.facebook.com/marketplace/item/1268989624299268/) |
 | 4กย 890 กรุงเทพมหานคร | 1988 | 318i | [550,000](https://www.facebook.com/marketplace/item/1044006214145871/) |
@@ -84,6 +84,7 @@
 | **Peugeot** |
 | ก 4729 ลำปาง | 1989 | 305 | [165,000](https://www.facebook.com/marketplace/item/538986929053095/) |
 | **Citroën** |
+| ธบ 6515 กรุงเทพมหานคร | 1970 | XM | [70,000](https://www.facebook.com/marketplace/item/1268451961056242/) |
 | กจ 3593 เชียงใหม่ | 1987 | BX 16 RS | [45,000](https://www.facebook.com/marketplace/item/1081561616884622/) |
 | **Volvo** |
 | งว 6716 เชียงใหม่ | 1990 | 940 GL | [60,000](https://www.facebook.com/marketplace/item/586671267652417/) |
@@ -121,8 +122,9 @@
 | **Mitsubishi** | **Galant** |
 || 1978 || [28,500](https://www.facebook.com/marketplace/item/1250931422685850/) |
 | 2ช 3843 กรุงเทพมหานคร | 1980 || [110,000](https://www.facebook.com/marketplace/item/492347460227707/) |
-| **Nissan** | **Sunny** |
-| กษ 5720 เชียงใหม่ | 1982 || [30,000](https://www.facebook.com/marketplace/item/1015882200253850/) |
+| **Nissan** |
+| กษ 5720 เชียงใหม่ | 1982 | Sunny | [30,000](https://www.facebook.com/marketplace/item/1015882200253850/) |
+| จพ 4691 เชียงใหม่ | 1994 | Bluebird SSS | [50,000](https://www.facebook.com/marketplace/item/914656783637929/) |
 | **Suzuki** | **Jimmy** |
 | จจ 4472 เชียงใหม่ | 1986 || [385,000](https://www.facebook.com/marketplace/item/1231627428059038/) |
 | **Suzuki** | **Vitara** |
