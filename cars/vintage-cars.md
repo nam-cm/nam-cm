@@ -95,6 +95,7 @@
 | ฉต 1976 กรุงเทพมหานคร | 1992 | R21 | [30,000](https://www.facebook.com/marketplace/item/1876359959470939/) |
 | **Fiat** |
 | งษ 7660 เชียงใหม่ | 1947 | 124 | [140,000](https://www.facebook.com/marketplace/item/4014935955401258/) |
+| กห 7402 เชียงใหม่ | 1956 | 1100 | [275,000](https://www.facebook.com/marketplace/item/1655603608666487/) |
 | ก 1209 เชียงใหม่ | 1969 | 1100 | [50,000](https://www.facebook.com/marketplace/item/1284269332590230/) |
 | **Peugeot** |
 | ก 4729 ลำปาง | 1989 | 305 | [165,000](https://www.facebook.com/marketplace/item/538986929053095/) |
@@ -140,11 +141,13 @@
 | กห 3893 เชียงใหม่ | 1990 || [46,000](https://www.facebook.com/marketplace/item/2702364319961628/) |
 | **Toyota** | **Starlet** |
 || 1971 || [40,000](https://www.facebook.com/marketplace/item/2765159580299936/) |
-| **Honda** |
-| งฉ 6514 เชียงใหม่ | 1992 | Prelude | [195,000](https://www.facebook.com/marketplace/item/883260780334857/) |
-| จย 8553 เชียงใหม่ | 1993 | Prelude | [189,000](https://www.facebook.com/marketplace/item/572197215772475/) |
-|| 1993 | Civic | [65,000](https://www.facebook.com/marketplace/item/453217804210240/) |
-|| 1994 | Civic | [35,000](https://www.facebook.com/marketplace/item/459123140521923/) |
+| **Honda** | **Prelude** |
+| งฉ 6514 เชียงใหม่ | 1992 || [195,000](https://www.facebook.com/marketplace/item/883260780334857/) |
+| จย 8553 เชียงใหม่ | 1993 || [189,000](https://www.facebook.com/marketplace/item/572197215772475/) |
+| **Honda** | **Civic** |
+| กฉ 7435 เชียงใหม่ | 1989 || [36,000](https://www.facebook.com/marketplace/item/1196695148419982/) |
+|| 1993 || [65,000](https://www.facebook.com/marketplace/item/453217804210240/) |
+|| 1994 || [35,000](https://www.facebook.com/marketplace/item/459123140521923/) |
 | **Mitsubishi** |
 || 1978 | Galant| [28,500](https://www.facebook.com/marketplace/item/1250931422685850/) |
 | 2ช 3843 กรุงเทพมหานคร | 1980 | Galant| [110,000](https://www.facebook.com/marketplace/item/492347460227707/) |
@@ -155,6 +158,7 @@
 | จพ 4691 เชียงใหม่ | 1994 | Bluebird SSS | [50,000](https://www.facebook.com/marketplace/item/914656783637929/) |
 | **Suzuki** |
 | จจ 4472 เชียงใหม่ | 1986 | Jimmy | [385,000](https://www.facebook.com/marketplace/item/1231627428059038/) |
+| ผย 5811 เชียงใหม่ | 1990 | Caribbean | [133,333](https://www.facebook.com/marketplace/item/922400926421316/) |
 | กจ 5003 เชียงใหม่ | 1991 | Caribbean | [75,000](https://www.facebook.com/marketplace/item/888831029886465/) |
 | * * เชียงใหม่ | 1991 | Caribbean | [135,000](https://www.facebook.com/marketplace/item/933659908475900/) |
 | งจ 7016 เชียงใหม่ | 1992 | Vitara | [181,000](https://www.facebook.com/marketplace/item/1742931809895171/) |
@@ -164,6 +168,7 @@
 | กธ 8354 แพร่ | 1995 || [450,000](https://www.facebook.com/marketplace/item/566989896218825/) |
 | **Daihatsu** | **Mira** |
 | ยพ 3693 เชียงใหม่ | 1990 || [169,000](https://www.facebook.com/marketplace/item/1276990976839437/) |
+| กค 4912 เชียงใหม่ | 1990 || [70,000](https://www.facebook.com/marketplace/item/8763586377052978/) |
 | กต 7136 อุตรดิตถ์ | 1994 || [53,000](https://www.facebook.com/marketplace/item/794335526209918/) |
 | กท 3562 เชียงใหม่ | 1995 || [149,999](https://www.facebook.com/marketplace/item/7640152649441311/) |
 || 1995 || [65,000](https://www.facebook.com/marketplace/item/866298618222644/) |
