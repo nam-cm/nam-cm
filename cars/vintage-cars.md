@@ -40,9 +40,10 @@
 | จร 614 เชียงใหม่ | 1994 | Mercedes-Benz | W124 E220 | ลำพูน 南奔 || [120,000](https://www.facebook.com/marketplace/item/1650635649193417/) |
 || 1994 | Mercedes-Benz | W124 E300 | เชียงใหม่ 清迈 || [139,000](https://www.facebook.com/marketplace/item/565844499305598/) |
 | กห 9439 เชียงใหม่ || Mercedes-Benz | W124 230E | เชียงใหม่ 清迈 || [55,000](https://www.facebook.com/marketplace/item/1649573152500189/) |
-||| Mercedes-Benz | C124 |
+| ฉต 3528 กรุงเทพมหานคร | Mercedes-Benz | W124 E320 | เชียงใหม่ 清迈 || [480,000](https://www.facebook.com/marketplace/item/404848625320874/) |
+||| **Mercedes-Benz** | **C124** |
 | งว 5286 เชียงใหม่ | 1989 | Mercedes-Benz | C124 280CE | เชียงใหม่ 清迈 || [250,000](https://www.facebook.com/marketplace/item/958266246197646/) |
-||| Mercedes-Benz | W202 |
+||| **Mercedes-Benz** | **W202** |
 || 1993 | Mercedes-Benz | W202 C180 | เชียงใหม่ 清迈 || [85,000](https://www.facebook.com/marketplace/item/1451882555487760/) |
 | ธท 9778 กรุงเทพมหานคร | 1994 | Mercedes-Benz | W202 C180 | เชียงใหม่ 清迈 || [95,000](https://www.facebook.com/marketplace/item/1099721505225992/) |
 | จฉ 1792 เชียงใหม่ | 1994 | Mercedes-Benz | W202 C220 | เชียงใหม่ 清迈 || [109,000](https://www.facebook.com/marketplace/item/533347216360760/) |
