@@ -3,7 +3,7 @@
 | ทะเบียน 车牌号 | ปี 年份 | เบ็ดเตล็ด 备注 | ราคา 价格 |
 |---|---|---|---|
 | **Rolls-Royce** | 
-|| 1996 | | Silver Spur | [4,890,000](https://www.facebook.com/marketplace/item/935185451750858/) |
+|| 1996 | Silver Spur | [4,890,000](https://www.facebook.com/marketplace/item/935185451750858/) |
 | **Porsche** | 
 | * 666 * | 1966 | 912 | [16,000,000](https://www.facebook.com/marketplace/item/500888962515816/) |
 | **Alfa Romeo** | 
