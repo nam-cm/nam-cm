@@ -157,14 +157,13 @@
 || 1971 || [40,000](https://www.facebook.com/marketplace/item/2765159580299936/) |
 | กต 3941 ลำพูน | 1984 | Overhauled engine 引擎翻新 | [39,000](https://www.facebook.com/marketplace/item/1693892048131648/) |
 | กต 4670 เชียงใหม่ | 1987 || [55,000](https://www.facebook.com/marketplace/item/1108230644091154/) |
-| **Honda** | **Prelude** |
-| งฉ 6514 เชียงใหม่ | 1992 || [195,000](https://www.facebook.com/marketplace/item/883260780334857/) |
-| จย 8553 เชียงใหม่ | 1993 || [189,000](https://www.facebook.com/marketplace/item/572197215772475/) |
-| **Honda** | **Civic** |
-| จก 9871 เชียงใหม่ | 1988 || [89,999](https://www.facebook.com/marketplace/item/4030979447225797/) |
-| กฉ 7435 เชียงใหม่ | 1989 || [36,000](https://www.facebook.com/marketplace/item/1196695148419982/) |
-|| 1993 || [65,000](https://www.facebook.com/marketplace/item/453217804210240/) |
-|| 1994 || [35,000](https://www.facebook.com/marketplace/item/459123140521923/) |
+| **Honda** | 
+| จก 9871 เชียงใหม่ | 1988 | Civic | [89,999](https://www.facebook.com/marketplace/item/4030979447225797/) |
+| กฉ 7435 เชียงใหม่ | 1989 | Civic | [36,000](https://www.facebook.com/marketplace/item/1196695148419982/) |
+| งฉ 6514 เชียงใหม่ | 1992 | Prelude | [195,000](https://www.facebook.com/marketplace/item/883260780334857/) |
+| จย 8553 เชียงใหม่ | 1993 | Prelude | [189,000](https://www.facebook.com/marketplace/item/572197215772475/) |
+|| 1993 | Civic | [65,000](https://www.facebook.com/marketplace/item/453217804210240/) |
+|| 1994 | Civic | [35,000](https://www.facebook.com/marketplace/item/459123140521923/) |
 | **Mitsubishi** |
 || 1978 | Galant| [28,500](https://www.facebook.com/marketplace/item/1250931422685850/) |
 | 2ช 3843 กรุงเทพมหานคร | 1980 | Galant| [110,000](https://www.facebook.com/marketplace/item/492347460227707/) |
