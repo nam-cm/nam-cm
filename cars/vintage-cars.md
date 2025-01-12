@@ -18,6 +18,7 @@
 | 3ก 0372 กรุงเทพมหานคร | 1964 || [799,999](https://www.facebook.com/marketplace/item/1134247371672932/) |
 | ฌช 8453 กรุงเทพมหานคร | 1965 || [430,000](https://www.facebook.com/marketplace/item/1588875361721114/) |
 | กพ 1615 เพชรบุรี | 1968 || [222,000](https://www.facebook.com/marketplace/item/1113498116934615/) |
+| ขฒ 3500 กรุงเทพมหานคร | 1968 || [290,000](https://www.facebook.com/marketplace/item/1528706261177310/) |
 | กต 546 | 1970 || [339,000](https://www.facebook.com/marketplace/item/1387803948910044/) |
 || 1971 || [369,000](https://www.facebook.com/marketplace/item/1596707814544761/) |
 | **Volkswagen** | **Type 2** |
@@ -43,6 +44,7 @@
 | งพ 2251 เชียงใหม่ | 1988 | 300D | [100,000](https://www.facebook.com/marketplace/item/587082240875774/) |
 | กค 9529 เชียงใหม่ | 1991 | 300D | [35,000](https://www.facebook.com/marketplace/item/430733762769755/) |
 || 1992 || [69,000](https://www.facebook.com/marketplace/item/1722384285203739/) |
+| ขฉ 5654 เชียงใหม่ | 1993 | 300E | [69,000](https://www.facebook.com/marketplace/item/860963239545759/) |
 | จร 614 เชียงใหม่ | 1994 | E220 | [120,000](https://www.facebook.com/marketplace/item/1650635649193417/) |
 || 1994 | E300 | [139,000](https://www.facebook.com/marketplace/item/565844499305598/) |
 | กห 9439 เชียงใหม่ || 230E | [55,000](https://www.facebook.com/marketplace/item/1649573152500189/) |
@@ -126,6 +128,8 @@
 | **Mitsubishi** | **Galant** |
 || 1978 || [28,500](https://www.facebook.com/marketplace/item/1250931422685850/) |
 | 2ช 3843 กรุงเทพมหานคร | 1980 || [110,000](https://www.facebook.com/marketplace/item/492347460227707/) |
+| **Mitsubishi** | **Pajero** |
+| กจ 2746 เชียงใหม่ | 1991 || [245,000](https://www.facebook.com/marketplace/item/1128624711947524/) |
 | **Nissan** |
 | กษ 5720 เชียงใหม่ | 1982 | Sunny | [30,000](https://www.facebook.com/marketplace/item/1015882200253850/) |
 | จพ 4691 เชียงใหม่ | 1994 | Bluebird SSS | [50,000](https://www.facebook.com/marketplace/item/914656783637929/) |
