@@ -1,4 +1,4 @@
-# รถยนต์วินเทจ | 经典车型
+# รถยนต์วินเทจ | 经典老车
 
 | ทะเบียน 车牌号 | ปี 年份 | ยี่ห้อ 品牌 | แบบ 型号 | ไมล์สะสม 里程 | สถานที่ 位置 | เบ็ดเตล็ด 备注 | ราคา 价格 |
 |---|---|---|---|---|---|---|---|
@@ -9,13 +9,15 @@
 | 3ก 0372 กรุงเทพมหานคร | 1964 | Volkswagen | Beetle || เชียงใหม่ 清迈 || [799,999](https://www.facebook.com/marketplace/item/1134247371672932/) |
 | ฌช 8453 กรุงเทพมหานคร | 1965 | Volkswagen | Beetle || เชียงใหม่ 清迈 || [430,000](https://www.facebook.com/marketplace/item/1588875361721114/) |
 | กพ 1615 เพชรบุรี | 1968 | Volkswagen | Beetle || ลำพูน 南奔 || [222,000](https://www.facebook.com/marketplace/item/1113498116934615/) |
+| กต 546 | 1970 | Volkswagen | Beetle || ลำพูน 南奔 || [339,000](https://www.facebook.com/marketplace/item/1387803948910044/) |
 || 1971 | Volkswagen | Beetle || เชียงใหม่ 清迈 || [369,000](https://www.facebook.com/marketplace/item/1596707814544761/) |
 | 5กบ 3042 กรุงเทพมหานคร | 1974 | Volkswagen | Beetle || เชียงใหม่ 清迈 || [390,000](https://www.facebook.com/marketplace/item/629572369534015/) |
 | ยท 6657 เชียงใหม่ | 1975 | Volkswagen | Type 2 || เชียงใหม่ 清迈 || [365,000](https://www.facebook.com/marketplace/item/1120061065739359/) |
 || 1997 | Volkswagen | Passat || เชียงใหม่ 清迈 || [59,900](https://www.facebook.com/marketplace/item/553556780795894/) |
 | * 7575 กรุงเทพมหานคร | 1958 | Mercedes-Benz | Ponton 220S || เชียงใหม่ 清迈 || [3,000,000](https://www.facebook.com/marketplace/item/8811895775528137/) |
-| ขม 8833 เชียงใหม่ | 1976 | Mercedes-Benz | W123 230E || เชียงใหม่ 清迈 || [750,000](https://www.facebook.com/marketplace/item/1070823884502588/) |
-| 8จ 3666 กรุงเทพมหานคร | 1982 | Mercedes-Benz | W123 300D || เชียงใหม่ 清迈 | ดีมาก 车况好 | [160,000](https://www.facebook.com/marketplace/item/1621347508806438/) |
+| ขม 8833 เชียงใหม่ | 1976 | Mercedes-Benz | W123 230E || เชียงใหม่ 清迈 | ขายแล้ว 已成交 | [750,000](https://www.facebook.com/marketplace/item/1070823884502588/) |
+| 8จ 3666 กรุงเทพมหานคร | 1982 | Mercedes-Benz | W123 300D || เชียงใหม่ 清迈 | ขายแล้ว 已成交 | [160,000](https://www.facebook.com/marketplace/item/1621347508806438/) |
+| กล 4596 เชียงใหม่ | 1989 | Mercedes-Benz | W123 280E || ลำพูน 南奔 | Jeep Wrangler engine, มาลัยซ้าย 左舵 | [39,000](https://www.facebook.com/marketplace/item/1224084922014329/) |
 | กค 1878 พะเยา | 1978 | Mercedes-Benz | W115 || เชียงใหม่ 清迈 || [155,000](https://www.facebook.com/marketplace/item/940967687548517/) |
 | กร 5872 ลำปาง | 1984 | Mercedes-Benz | W201 190E | 260,000+ | ลำปาง 南邦 || [85,000](https://www.facebook.com/marketplace/item/484391704457294/) |
 | งว 5286 เชียงใหม่ | 1989 | Mercedes-Benz | C124 280CE || เชียงใหม่ 清迈 || [250,000](https://www.facebook.com/marketplace/item/958266246197646/) |
@@ -26,12 +28,13 @@
 | กค 9529 เชียงใหม่ | 1991 | Mercedes-Benz | W124 300D || เชียงใหม่ 清迈 || [35,000](https://www.facebook.com/marketplace/item/430733762769755/) |
 || 1992 | Mercedes-Benz | W124 || เชียงใหม่ 清迈 || [69,000](https://www.facebook.com/marketplace/item/1722384285203739/) |
 | จร 614 เชียงใหม่ | 1994 | Mercedes-Benz | W124 E220 || ลำพูน 南奔 || [120,000](https://www.facebook.com/marketplace/item/1650635649193417/) |
-| กจ 8335 แพร่ | 1994 | Mercedes-Benz | W124 E280 | 360,000+ | เชียงใหม่ 清迈 || [72,000](https://www.facebook.com/marketplace/item/1868702200650168/) |
+| กจ 8335 แพร่ | 1994 | Mercedes-Benz | W124 E280 | 360,000+ | เชียงใหม่ 清迈 | ขายแล้ว 已成交 | [72,000](https://www.facebook.com/marketplace/item/1868702200650168/) |
 || 1994 | Mercedes-Benz | W124 E300 | 190,000+ | เชียงใหม่ 清迈 || [139,000](https://www.facebook.com/marketplace/item/565844499305598/) |
 | กห 9439 เชียงใหม่ || Mercedes-Benz | W124 230E || เชียงใหม่ 清迈 || [55,000](https://www.facebook.com/marketplace/item/1649573152500189/) |
 || 1993 | Mercedes-Benz | W202 C180 || เชียงใหม่ 清迈 || [85,000](https://www.facebook.com/marketplace/item/1451882555487760/) |
 | ธท 9778 กรุงเทพมหานคร | 1994 | Mercedes-Benz | W202 C180 || เชียงใหม่ 清迈 || [95,000](https://www.facebook.com/marketplace/item/1099721505225992/) |
 | จฉ 1792 เชียงใหม่ | 1994 | Mercedes-Benz | W202 C220 | 240,000+ | เชียงใหม่ 清迈 || [109,000](https://www.facebook.com/marketplace/item/533347216360760/) |
+| 7? 5712 กรุงเทพมหานคร | 1994 | Mercedes-Benz | W202 C220 | 310,000+ | เชียงใหม่ 清迈 || [89,000](https://www.facebook.com/marketplace/item/2048270205691280/) |
 | กฉ 8444 เชียงใหม่ | 1995 | Mercedes-Benz | W202 C220 || เชียงใหม่ 清迈 || [145,000](https://www.facebook.com/marketplace/item/901801241487939/) |
 | 4ขฐ 3851 กรุงเทพมหานคร | 1996 | Mercedes-Benz | W202 C220 || ลำพูน 南奔 || [85,000](https://www.facebook.com/marketplace/item/979644970654859/) |
 | กพ 9519  เชียงใหม่ | 1997 | Mercedes-Benz | W202 C220 || เชียงใหม่ 清迈 || [85,000](https://www.facebook.com/marketplace/item/596374969567703/) |
@@ -59,6 +62,7 @@
 | จพ 3425 เชียงใหม่ | 1995 | BMW | E36 318i || เชียงใหม่ 清迈 || [56,500](https://www.facebook.com/marketplace/item/1201671287692844/) |
 | กจ 6800 อุตรดิตถ์ | 1996 | BMW | E36 316i || เชียงใหม่ 清迈 || [245,000](https://www.facebook.com/marketplace/item/957865196055853/) |
 | 3ขย 5073 | 1996 | BMW | E36 | 180,000+ | เชียงใหม่ 清迈 || [285,000](https://www.facebook.com/marketplace/item/1284316029443189/) |
+| งล 6904 เชียงใหม่ | 1995 | BMW | E38 740Li || เชียงใหม่ 清迈 | Full restoration 完整翻新 | [450,000](https://www.facebook.com/marketplace/item/1735392450371325/) |
 | งจ 3391 เชียงใหม่ | 1997 | BMW | E34 525i | 300,000+ | เชียงใหม่ 清迈 | Toyota engine | [149,000](https://www.facebook.com/marketplace/item/1072947734338884/) |
 | ขธ 4923 เชียงใหม่ | 1998 | BMW | E34 525i || เชียงใหม่ 清迈 || [119,000](https://www.facebook.com/marketplace/item/491587893915204/) |
 | จค 7949 เชียงใหม่ | 1999 | BMW | E46 318i | 240,000+ | เชียงใหม่ 清迈 || [90,000](https://www.facebook.com/marketplace/item/359665237141365/) |
@@ -82,6 +86,7 @@
 || 1999 | Jeep | Cherokee || เชียงใหม่ 清迈 || [220,000](https://www.facebook.com/marketplace/item/323167047531275/) |
 | จธ 7610 เชียงใหม่ | 1963 | Toyota | Corolla || เชียงใหม่ 清迈 || [159,000](https://www.facebook.com/marketplace/item/1026501249243575/) |
 | กก 4808 เชียงใหม่ | 1969 | Toyota | Corolla RT60 || ลำปาง 南邦 || [169,000](https://www.facebook.com/marketplace/item/559381876597712/) |
+| กล 208 ลำปาง | 1969 | Toyota | Corolla KE10 || ลำปาง 南邦 || [120,000](https://www.facebook.com/marketplace/item/567639132635193/) |
 | กก 34 เชียงใหม่ | 1971 | Toyota | Corolla RT81 || เชียงใหม่ 清迈 || [200,000](https://www.facebook.com/marketplace/item/1151518576310544/) |
 | กก 1409 เชียงใหม่ | 1974 | Toyota | Corolla KE20 || เชียงใหม่ 清迈 || [45,000](https://www.facebook.com/marketplace/item/1031999101768731/) |
 | งค 1103 เชียงใหม่ | 1977 | Toyota | Corolla KE30 || เชียงใหม่ 清迈 || [139,000](https://www.facebook.com/marketplace/item/873817584550942/) |
@@ -92,17 +97,22 @@
 | จย 1832 เชียงใหม่ | 1970 | Toyota | Corolla KE35 || เชียงใหม่ 清迈 || [155,000](https://www.facebook.com/marketplace/item/1297243594584520/) |
 || 1980 | Toyota | Corolla KE70 | 250,000+ | เชียงใหม่ 清迈 || [45,000](https://www.facebook.com/marketplace/item/1137364031445694/) |
 | จก 2940 เชียงใหม่ | 1983 | Toyota | Corolla KE70 || เชียงใหม่ 清迈 || [20,000](https://www.facebook.com/marketplace/item/1566912550887877/) |
+| กข 1303 เชียงใหม่ | 1989 | Toyota | Corolla || เชียงใหม่ 清迈 || [25,000](https://www.facebook.com/marketplace/item/457631500075869/) |
 || 1971 | Toyota | Starlet | 200,000+ | เชียงใหม่ 清迈 || [40,000](https://www.facebook.com/marketplace/item/2765159580299936/) |
+| กษ 3586 เชียงใหม่| 1991 | Toyota | Starlet || เชียงใหม่ 清迈 || [65,000](https://www.facebook.com/marketplace/item/1251215576198173/) |
 | จย 8553 เชียงใหม่ | 1993 | Honda | Prelude || เชียงใหม่ 清迈 || [189,000](https://www.facebook.com/marketplace/item/572197215772475/) |
 | 2ช 3843 กรุงเทพมหานคร | 1980 | Mitsubishi | Galant || เชียงใหม่ 清迈 || [110,000](https://www.facebook.com/marketplace/item/492347460227707/) |
 | กจ 2746 เชียงใหม่ | 1991 | Mitsubishi | Pajero | 360,000+ | เชียงใหม่ 清迈 || [270,000](https://www.facebook.com/marketplace/item/778037454488314/) |
+| กบ 7420 เชียงใหม่ | 1996 | Mitsubishi | Pajero Shogun V6 | 220,000+ | เชียงใหม่ 清迈 || [219,000](https://www.facebook.com/marketplace/item/2084254345360153/) |
 | กษ 5720 เชียงใหม่ | 1982 | Nissan | Sunny || เชียงใหม่ 清迈 || [30,000](https://www.facebook.com/marketplace/item/1015882200253850/) |
 | จจ 4472 เชียงใหม่ | 1986 | Suzuki | Jimmy | 150,000+ | เชียงใหม่ 清迈 || [385,000](https://www.facebook.com/marketplace/item/8430156537069245/) |
 | งจ 7016 เชียงใหม่ | 1992 | Suzuki | Vitara || เชียงใหม่ 清迈 || [181,000](https://www.facebook.com/marketplace/item/1742931809895171/) |
 | * 424 กรุงเทพมหานคร | 1993 | Suzuki | Vitara || เชียงใหม่ 清迈 || [450,000](https://www.facebook.com/marketplace/item/542433498715097/) |
 | กธ 8354 แพร่ | 1995 | Mazda | 323 || เชียงใหม่ 清迈 || [450,000](https://www.facebook.com/marketplace/item/566989896218825/) |
-| ขห 3887 เชียงใหม่ | 1997 | Mazda | 323F Astina || เชียงใหม่ 清迈 || [39,000](https://www.facebook.com/marketplace/item/4266820143604439/) |
+|| 1996 | Mazda | Efinis RX-7 || เชียงใหม่ 清迈 | 110,000+ | [2,590,000](https://www.facebook.com/marketplace/item/1526186074677891/) |
+| ขห 3887 เชียงใหม่ | 1997 | Mazda | 323F Astina || เชียงใหม่ 清迈 | ขายแล้ว 已成交 | [39,000](https://www.facebook.com/marketplace/item/4266820143604439/) |
 | จก 851 เชียงใหม่ | 1996 | Kia | Sportage | 170,000+ | เชียงใหม่ 清迈 || [45,000](https://www.facebook.com/marketplace/item/1561120574530043/) |
+|| 1995 | Daihatsu | Mira || เชียงใหม่ 清迈 || [70,000](https://www.facebook.com/marketplace/item/1280851712835545/) |
 
 ## ติดต่อฉัน | 联系我
 
