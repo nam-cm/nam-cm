@@ -67,7 +67,6 @@
 | จฉ 316 เชียงใหม่ | 1990 | 316i | [129,000](https://www.facebook.com/marketplace/item/495365076315577/) |
 | กฉ 9750 ลำพูน | 1990 || [89,000](https://www.facebook.com/marketplace/item/2052046408574681/) |
 | กต 4644 เชียงใหม่ | 1991 | 318i | [35,000](https://www.facebook.com/marketplace/item/1094318498672829/) |
-| จฉ 7906 เชียงใหม่ ||| [680,000](https://www.facebook.com/marketplace/item/8474271952684311/) |
 | **BMW** | **E36** |
 | จก 9701 เชียงใหม่ | 1992 | 318i | [109,000](https://www.facebook.com/marketplace/item/1143544263903123/) |
 | กค 6508  ลำพูน | 1993 | 318i | [550,000](https://www.facebook.com/marketplace/item/2600605510149187/) |
