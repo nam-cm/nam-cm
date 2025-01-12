@@ -22,6 +22,7 @@
 | ขฒ 3500 กรุงเทพมหานคร | 1968 || [290,000](https://www.facebook.com/marketplace/item/1528706261177310/) |
 | กต 546 | 1970 || [339,000](https://www.facebook.com/marketplace/item/1387803948910044/) |
 || 1971 || [369,000](https://www.facebook.com/marketplace/item/1596707814544761/) |
+| 5กบ 3042 กรุงเทพมหานคร | 1974 || [390,000](https://www.facebook.com/marketplace/item/574073762041100/) |
 | จย 2584 เชียงใหม่ | 1975 || [265,000](https://www.facebook.com/marketplace/item/474702972336192/) |
 | **Volkswagen** | **Type 2** |
 | ยท 6657 เชียงใหม่ | 1975 || [365,000](https://www.facebook.com/marketplace/item/1120061065739359/) |
@@ -112,6 +113,7 @@
 | กจ 1034 เชียงใหม่ | 1995 | Festiva | [35,000](https://www.facebook.com/marketplace/item/634581372434162/) |
 | **Land Rover** | **Discovery** |
 | ?? 3963 กรุงเทพมหานคร | 1989 || [120,000](https://www.facebook.com/marketplace/item/575730231630089/) |
+| จต 8885 เชียงใหม่ | 1995 || [225,000](https://www.facebook.com/marketplace/item/421099397710053/) |
 || 1995 || [350,000](https://www.facebook.com/marketplace/item/3765956973617111/) |
 | **Jeep** | **CJ** |
 | ษด 65 เชียงใหม่ | 1962 | CJ-3B | [280,000](https://www.facebook.com/marketplace/item/407970675375436/) |
@@ -122,6 +124,7 @@
 | จค 2572 เชียงใหม่ | 1995 || [195,000](https://www.facebook.com/marketplace/item/2026554874462352/) |
 | **Opel** |
 | กจ 980 เชียงใหม่ | 1994 | Astra | [30,000](https://www.facebook.com/marketplace/item/1393481778282879/) |
+| กข 5334 ลำพูน | 1995 | Corsa | [33,000](https://www.facebook.com/marketplace/item/1257554295539863/) |
 | **Toyota** | **Corolla** |
 | จธ 7610 เชียงใหม่ | 1963 || [159,000](https://www.facebook.com/marketplace/item/1026501249243575/) |
 | จย 1832 เชียงใหม่ | 1970 | KE35 | [155,000](https://www.facebook.com/marketplace/item/1297243594584520/) |
@@ -136,15 +139,19 @@
 | กข 1303 เชียงใหม่ | 1989 || [25,000](https://www.facebook.com/marketplace/item/457631500075869/) |
 | **Toyota** | **Crown** |
 | กก 7007 ลำพูน | 1975 || [50,000](https://www.facebook.com/marketplace/item/1163737008237502/) |
+| จข 4321 เชียงใหม่ | 1988 | Royal; สภาพดี 车况好 | [250,000](https://www.facebook.com/marketplace/item/1169267747727995/) |
 | **Toyota** | **Corona** |
 | กท 1649 ลำปาง | 1974 || [40,000](https://www.facebook.com/marketplace/item/1859108044436207/) |
 | กห 3893 เชียงใหม่ | 1990 || [46,000](https://www.facebook.com/marketplace/item/2702364319961628/) |
 | **Toyota** | **Starlet** |
 || 1971 || [40,000](https://www.facebook.com/marketplace/item/2765159580299936/) |
+| กต 3941 ลำพูน | 1984 | Overhauled engine 引擎翻新 | [39,000](https://www.facebook.com/marketplace/item/1693892048131648/) |
+| กต 4670 เชียงใหม่ | 1987 || [55,000](https://www.facebook.com/marketplace/item/1108230644091154/) |
 | **Honda** | **Prelude** |
 | งฉ 6514 เชียงใหม่ | 1992 || [195,000](https://www.facebook.com/marketplace/item/883260780334857/) |
 | จย 8553 เชียงใหม่ | 1993 || [189,000](https://www.facebook.com/marketplace/item/572197215772475/) |
 | **Honda** | **Civic** |
+| จก 9871 เชียงใหม่ | 1988 || [89,999](https://www.facebook.com/marketplace/item/4030979447225797/) |
 | กฉ 7435 เชียงใหม่ | 1989 || [36,000](https://www.facebook.com/marketplace/item/1196695148419982/) |
 || 1993 || [65,000](https://www.facebook.com/marketplace/item/453217804210240/) |
 || 1994 || [35,000](https://www.facebook.com/marketplace/item/459123140521923/) |
@@ -169,9 +176,12 @@
 | **Daihatsu** | **Mira** |
 | ยพ 3693 เชียงใหม่ | 1990 || [169,000](https://www.facebook.com/marketplace/item/1276990976839437/) |
 | กค 4912 เชียงใหม่ | 1990 || [70,000](https://www.facebook.com/marketplace/item/8763586377052978/) |
+| กข 9956 ลำพูน | 1993 || [37,000](https://www.facebook.com/marketplace/item/1746617792846520/) |
 | กต 7136 อุตรดิตถ์ | 1994 || [53,000](https://www.facebook.com/marketplace/item/794335526209918/) |
 | กท 3562 เชียงใหม่ | 1995 || [149,999](https://www.facebook.com/marketplace/item/7640152649441311/) |
+| กง 4712 ลำพูน | 1995 || [89,000](https://www.facebook.com/marketplace/item/2626413254196025/) |
 || 1995 || [65,000](https://www.facebook.com/marketplace/item/866298618222644/) |
+| งธ 5509 เชียงใหม่ | 2016 | สภาพดี 车况好 | [275,000](https://www.facebook.com/marketplace/item/1237428467338046/) |
 
 ## ติดต่อฉัน | 联系我
 
