@@ -102,11 +102,15 @@
 | งษ 7660 เชียงใหม่ | 1947 | 124 | [140,000](https://www.facebook.com/marketplace/item/4014935955401258/) |
 | กห 7402 เชียงใหม่ | 1956 | 1100 | [275,000](https://www.facebook.com/marketplace/item/1655603608666487/) |
 | ก 1209 เชียงใหม่ | 1969 | 1100 | [50,000](https://www.facebook.com/marketplace/item/1284269332590230/) |
+|| 1980 | 500 | [24,444](https://www.facebook.com/marketplace/item/477252294907308/) |
+| งร 9861 เชียงใหม่ || 1500 | [220,000](https://www.facebook.com/marketplace/item/1273625720469869/) |
 | **Peugeot** |
 | ก 4729 ลำปาง | 1989 | 305 | [165,000](https://www.facebook.com/marketplace/item/538986929053095/) |
+| จธ 9056 เชียงใหม่ | 1989 | 405 | [40,000](https://www.facebook.com/marketplace/item/1932199723927270/) |
 | **Citroën** |
 | ธบ 6515 กรุงเทพมหานคร | 1970 | XM | [70,000](https://www.facebook.com/marketplace/item/1268451961056242/) |
 | กจ 3593 เชียงใหม่ | 1987 | BX 16 RS | [45,000](https://www.facebook.com/marketplace/item/1081561616884622/) |
+| ญอ 2877 กรุงเทพมหานคร | 1994 | Xantia | [65,000](https://www.facebook.com/marketplace/item/941036967450258/) |
 | **Volvo** |
 | งว 6716 เชียงใหม่ | 1990 | 940 GL | [60,000](https://www.facebook.com/marketplace/item/586671267652417/) |
 | กย 9652 เชียงราย | 1991 | 940 GLE | [33,000](https://www.facebook.com/marketplace/item/643316844921633/) |
@@ -116,6 +120,7 @@
 || 1973 | Cortina GXL | [85,000](https://www.facebook.com/marketplace/item/409030665567471/) |
 | กจ 1034 เชียงใหม่ | 1995 | Festiva | [35,000](https://www.facebook.com/marketplace/item/634581372434162/) |
 | **Land Rover** | **Discovery** |
+| นจ 5726 เชียงใหม่ | 1978 | Series 3 | [550,000](https://www.facebook.com/marketplace/item/8448424191922386/) |
 | ?? 3963 กรุงเทพมหานคร | 1989 || [120,000](https://www.facebook.com/marketplace/item/575730231630089/) |
 | จต 8885 เชียงใหม่ | 1995 || [225,000](https://www.facebook.com/marketplace/item/421099397710053/) |
 || 1995 || [350,000](https://www.facebook.com/marketplace/item/3765956973617111/) |
@@ -126,6 +131,7 @@
 || 1994 || [169,000](https://www.facebook.com/marketplace/item/1321463362215686/) |
 | กข 1703 พะเยา | 1995 | Grand Cherokee | [79,500](https://www.facebook.com/marketplace/item/888860272684795/) |
 | จค 2572 เชียงใหม่ | 1995 || [195,000](https://www.facebook.com/marketplace/item/2026554874462352/) |
+|| 1995 || [199,000](https://www.facebook.com/marketplace/item/408440855571010/) |
 | **Opel** |
 | กจ 980 เชียงใหม่ | 1994 | Astra | [30,000](https://www.facebook.com/marketplace/item/1393481778282879/) |
 | กข 5334 ลำพูน | 1995 | Corsa | [33,000](https://www.facebook.com/marketplace/item/1257554295539863/) |
