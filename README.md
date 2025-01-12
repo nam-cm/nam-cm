@@ -4,7 +4,7 @@
 
 ## รถยนต์ | 汽车
 
-- [รถยนต์วินเทจ | 经典车型](https://github.com/nam-cm/nam-cm/blob/main/cars/vintage-cars.md)
+- [รถยนต์วินเทจในจังหวัดเชียงใหม่และลำพูน | 清迈南奔经典老车](https://github.com/nam-cm/nam-cm/blob/main/cars/vintage-cars.md)
 
 ## ติดต่อฉัน | 联系我
 
