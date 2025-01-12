@@ -23,6 +23,7 @@
 | กต 546 | 1970 || [339,000](https://www.facebook.com/marketplace/item/1387803948910044/) |
 || 1971 || [369,000](https://www.facebook.com/marketplace/item/1596707814544761/) |
 | 5กบ 3042 กรุงเทพมหานคร | 1974 || [390,000](https://www.facebook.com/marketplace/item/574073762041100/) |
+| กก 4984 เชียงใหม่ | 1974 || [300,000](https://www.facebook.com/marketplace/item/896295845165113/) |
 | จย 2584 เชียงใหม่ | 1975 || [265,000](https://www.facebook.com/marketplace/item/474702972336192/) |
 | **Volkswagen** | **Type 2** |
 | ยท 6657 เชียงใหม่ | 1975 || [365,000](https://www.facebook.com/marketplace/item/1120061065739359/) |
@@ -165,6 +166,7 @@
 | จพ 4691 เชียงใหม่ | 1994 | Bluebird SSS | [50,000](https://www.facebook.com/marketplace/item/914656783637929/) |
 | **Suzuki** |
 | จจ 4472 เชียงใหม่ | 1986 | Jimmy | [385,000](https://www.facebook.com/marketplace/item/1231627428059038/) |
+| กน 1822 มหาสารคาม | 1988 | Caribbean | [89,000](https://www.facebook.com/marketplace/item/550796887931461/) |
 | ผย 5811 เชียงใหม่ | 1990 | Caribbean | [133,333](https://www.facebook.com/marketplace/item/922400926421316/) |
 | กจ 5003 เชียงใหม่ | 1991 | Caribbean | [75,000](https://www.facebook.com/marketplace/item/888831029886465/) |
 | * * เชียงใหม่ | 1991 | Caribbean | [135,000](https://www.facebook.com/marketplace/item/933659908475900/) |
