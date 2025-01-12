@@ -10,6 +10,8 @@
 | จจ 5271 เชียงใหม่ | 1969 | Berlina | [499,000](https://www.facebook.com/marketplace/item/923537763166216/) |
 | **Lotus** | **Elan** |
 | จค 3128 เชียงใหม่ | 1992 || [590,000](https://www.facebook.com/marketplace/item/1648393432646096/) |
+| **Vauxhall** | **Viva** |
+|| 1978 || [125,000](https://www.facebook.com/marketplace/item/548787108150457/) |
 | **Volkswagen** | **Type 3** |
 | 2ขอ 7685 กรุงเทพมหานคร | 1965 | Notchback | [500,000](https://www.facebook.com/marketplace/item/876220217176507/) |
 | **Volkswagen** | **Beetle** |
@@ -63,6 +65,7 @@
 | * 6?66 เชียงใหม่ | 1982 | 520 | [190,000](https://www.facebook.com/marketplace/item/1002861041477218/) |
 | **BMW** | **E30** |
 | กต 5501 เชียงใหม่ | 1986 | 316; Toyota engine | [42,000](https://www.facebook.com/marketplace/item/556692437142906/) |
+| ขธ 9919 เชียงใหม่ | 1986 | 316; Nissan engine | [40,000](https://www.facebook.com/marketplace/item/2479779068892658/) |
 | 8กด 318 กรุงเทพมหานคร | 1987 | 318i | [399,000](https://www.facebook.com/marketplace/item/850705846619371/) |
 | กธ 30 เชียงใหม่ | 1988 | 318i | [385,000](https://www.facebook.com/marketplace/item/1268989624299268/) |
 | 4กย 890 กรุงเทพมหานคร | 1988 | 318i | [550,000](https://www.facebook.com/marketplace/item/1044006214145871/) |
@@ -73,6 +76,7 @@
 | จก 9701 เชียงใหม่ | 1992 | 318i | [109,000](https://www.facebook.com/marketplace/item/1143544263903123/) |
 | กค 6508  ลำพูน | 1993 | 318i | [550,000](https://www.facebook.com/marketplace/item/2600605510149187/) |
 | จพ 3425 เชียงใหม่ | 1995 | 318i | [56,500](https://www.facebook.com/marketplace/item/1201671287692844/) |
+| กน 7011 เชียงใหม่ | 1995 | 318i | [69,000](https://www.facebook.com/marketplace/item/3276879919114233/) |
 | **BMW** | **E38** |
 | งล 6904 เชียงใหม่ | 1995 | 740Li; full restoration 完整翻新 | [450,000](https://www.facebook.com/marketplace/item/1735392450371325/) |
 | **Mini** |
