@@ -12,6 +12,8 @@
 | จค 3128 เชียงใหม่ | 1992 || [590,000](https://www.facebook.com/marketplace/item/1648393432646096/) |
 | **Vauxhall** | **Viva** |
 || 1978 || [125,000](https://www.facebook.com/marketplace/item/548787108150457/) |
+| **Holden** | **HQ** |
+| ชค 8213 เชียงใหม่ | 1970 || [590,000](https://www.facebook.com/marketplace/item/972522984623386/) |
 | **Volkswagen** | **Type 3** |
 | 2ขอ 7685 กรุงเทพมหานคร | 1965 | Notchback | [500,000](https://www.facebook.com/marketplace/item/876220217176507/) |
 | **Volkswagen** | **Beetle** |
@@ -20,6 +22,7 @@
 | ขต 9242 เชียงใหม่ | 1968 || [365,000](https://www.facebook.com/marketplace/item/912273913665458/) |
 | กพ 1615 เพชรบุรี | 1968 || [222,000](https://www.facebook.com/marketplace/item/1113498116934615/) |
 | ขฒ 3500 กรุงเทพมหานคร | 1968 || [290,000](https://www.facebook.com/marketplace/item/1528706261177310/) |
+| ก 4986 เชียงใหม่ | 1968 || [540,000](https://www.facebook.com/marketplace/item/1072030031094509/) |
 | กต 546 | 1970 || [339,000](https://www.facebook.com/marketplace/item/1387803948910044/) |
 || 1971 || [369,000](https://www.facebook.com/marketplace/item/1596707814544761/) |
 | 5กบ 3042 กรุงเทพมหานคร | 1974 || [390,000](https://www.facebook.com/marketplace/item/574073762041100/) |
@@ -160,6 +163,7 @@
 || 1978 | Galant| [28,500](https://www.facebook.com/marketplace/item/1250931422685850/) |
 | 2ช 3843 กรุงเทพมหานคร | 1980 | Galant| [110,000](https://www.facebook.com/marketplace/item/492347460227707/) |
 | กจ 2746 เชียงใหม่ | 1991 | Pajero| [245,000](https://www.facebook.com/marketplace/item/1128624711947524/) |
+| กง 7576 เชียงใหม่ | 1993 | Pajero | [110,000](https://www.facebook.com/marketplace/item/1093058798871601/) |
 | กก 9108 กาญจนบุรี | 1995 | Champ | [35,000](https://www.facebook.com/marketplace/item/2249806695401692/) |
 | **Nissan** |
 | กษ 5720 เชียงใหม่ | 1982 | Sunny | [30,000](https://www.facebook.com/marketplace/item/1015882200253850/) |
