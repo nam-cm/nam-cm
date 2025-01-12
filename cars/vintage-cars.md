@@ -104,7 +104,6 @@
 | กก 34 เชียงใหม่ | 1971 | RT81 | [200,000](https://www.facebook.com/marketplace/item/1151518576310544/) |
 | กก 1409 เชียงใหม่ | 1974 | KE20 | [45,000](https://www.facebook.com/marketplace/item/1031999101768731/) |
 | งค 1103 เชียงใหม่ | 1977 | KE30 | [139,000](https://www.facebook.com/marketplace/item/873817584550942/) |
-| กก 9087 เชียงใหม่ | 1977 | KE30 | [27,000](https://www.facebook.com/marketplace/item/477925388298425/) |
 | กท 4570 ลำพูน | 1977 | KE30 | [45,000](https://www.facebook.com/marketplace/item/888615160099114/) |
 | กก 5139 เชียงใหม่ | 1978 | KE30 | [69,000](https://www.facebook.com/marketplace/item/2359420914417259/) |
 || 1980 | KE70 | [45,000](https://www.facebook.com/marketplace/item/1137364031445694/) |
