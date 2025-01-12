@@ -8,6 +8,8 @@
 | * 666 * | 1966 | Porsche | 912 | เชียงใหม่ 清迈 || [16,000,000](https://www.facebook.com/marketplace/item/500888962515816/) |
 ||| **Alfa Romeo** | 
 | จจ 5271 เชียงใหม่ | 1969 | Alfa Romeo | Berlina | เชียงใหม่ 清迈 || [499,000](https://www.facebook.com/marketplace/item/923537763166216/) |
+||| **Lotus** | **Elan** |
+| จค 3128 เชียงใหม่ | 1992 | Lotus | Elan | เชียงใหม่ 清迈 | [590,000](https://www.facebook.com/marketplace/item/1648393432646096/) |
 ||| **Volkswagen** | **Type 3** |
 | 2ขอ 7685 กรุงเทพมหานคร | 1965 | Volkswagen | Type 3 Notchback | เชียงใหม่ 清迈 || [500,000](https://www.facebook.com/marketplace/item/876220217176507/) |
 ||| **Volkswagen** | **Beetle** |
@@ -40,7 +42,7 @@
 | จร 614 เชียงใหม่ | 1994 | Mercedes-Benz | W124 E220 | ลำพูน 南奔 || [120,000](https://www.facebook.com/marketplace/item/1650635649193417/) |
 || 1994 | Mercedes-Benz | W124 E300 | เชียงใหม่ 清迈 || [139,000](https://www.facebook.com/marketplace/item/565844499305598/) |
 | กห 9439 เชียงใหม่ || Mercedes-Benz | W124 230E | เชียงใหม่ 清迈 || [55,000](https://www.facebook.com/marketplace/item/1649573152500189/) |
-| ฉต 3528 กรุงเทพมหานคร | Mercedes-Benz | W124 E320 | เชียงใหม่ 清迈 || [480,000](https://www.facebook.com/marketplace/item/404848625320874/) |
+| ฉต 3528 กรุงเทพมหานคร || Mercedes-Benz | W124 E320 | เชียงใหม่ 清迈 || [480,000](https://www.facebook.com/marketplace/item/404848625320874/) |
 ||| **Mercedes-Benz** | **C124** |
 | งว 5286 เชียงใหม่ | 1989 | Mercedes-Benz | C124 280CE | เชียงใหม่ 清迈 || [250,000](https://www.facebook.com/marketplace/item/958266246197646/) |
 ||| **Mercedes-Benz** | **W202** |
