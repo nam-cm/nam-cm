@@ -18,7 +18,6 @@
 | กพ 1615 เพชรบุรี | 1968 || [222,000](https://www.facebook.com/marketplace/item/1113498116934615/) |
 | กต 546 | 1970 || [339,000](https://www.facebook.com/marketplace/item/1387803948910044/) |
 || 1971 || [369,000](https://www.facebook.com/marketplace/item/1596707814544761/) |
-| 5กบ 3042 กรุงเทพมหานคร | 1974 || [390,000](https://www.facebook.com/marketplace/item/629572369534015/) |
 | **Volkswagen** | **Type 2** |
 | ยท 6657 เชียงใหม่ | 1975 || [365,000](https://www.facebook.com/marketplace/item/1120061065739359/) |
 | **Mercedes-Benz** | **Ponton** |
