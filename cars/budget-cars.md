@@ -22,7 +22,6 @@
 | **Nissan** |
 | กษ 5720 เชียงใหม่ | 1982 | Sunny | [25,000](https://www.facebook.com/marketplace/item/1015882200253850/) |
 | กข 6173 ลำพูน | 1990 | Sunny | [15,000](https://www.facebook.com/marketplace/item/1323426805324016/) |
-| กง 448 เชียงใหม่ | 1990 | Sentra | [28,000](https://www.facebook.com/marketplace/item/1147339823774605/) |
 | กค 3016 เชียงใหม่ | 1991 | B11 | [12,500](https://www.facebook.com/marketplace/item/1323491978810803/) |
 | กธ 4592 เชียงราย | 1996 | B13 | [29,999](https://www.facebook.com/marketplace/item/1279822446768566/) |
 | **Mitsubishi** |
