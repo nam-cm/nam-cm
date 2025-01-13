@@ -7,12 +7,10 @@
 | กล 5072 ลำปาง | 1987 || [15,000](https://www.facebook.com/marketplace/item/1708934309668316/) |
 | ขพ 1791 ระนอง | 1988 || [18,000](https://www.facebook.com/marketplace/item/1095926318872805/) |
 | กท 4020 ลำพูน | 1991 || [29,000](https://www.facebook.com/marketplace/item/505624058880851/) |
-| งธ 3180 เชียงใหม่ | 1992 | 290,000+ km | [25,000](https://www.facebook.com/marketplace/item/563892102960607/) |
 | กต 5475 ลำพูน | 1993 | 290,000+ km | [30,000](https://www.facebook.com/marketplace/item/576845845160834/) |
 | กอ 1972 เชียงใหม่ | 1995 | 230,000+ km | [29,000](https://www.facebook.com/marketplace/item/523872063330421/) |
 | งน 9751 เชียงใหม่ | 1997 || [25,500](https://www.facebook.com/marketplace/item/1708330746376196/) |
 || 1997 || [30,000](https://www.facebook.com/marketplace/item/1690696784808057/) |
-| กข 5300 เชียงใหม่ | 1998 || [20,000](https://www.facebook.com/marketplace/item/992920915955052/) |
 | จท 2536 เชียงใหม่ ||| [29,000](https://www.facebook.com/marketplace/item/934485921549824/) |
 | **Toyota** | **Corona** |
 | ขค 34 ลำพูน | 1993 || [20,000](https://www.facebook.com/marketplace/item/776222478025387/) |
