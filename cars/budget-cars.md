@@ -45,5 +45,7 @@
 | กค 5048 เชียงใหม่ | 1993 | Accord | [25,000](https://www.facebook.com/marketplace/item/1248936832882138/) |
 | กว 7218 เชียงใหม่ | 1993 | Civic | [29,000](https://www.facebook.com/marketplace/item/575307885429639/) |
 | ฉข 2650 เชียงใหม่ | 2000 | Civic | [29,500](https://www.facebook.com/marketplace/item/1109659474231489/) |
+| **Suzuki** |
+| กจ 3745 เชียงใหม่ | 1994 | Swift | [20,000](https://www.facebook.com/marketplace/item/565090092921345/) |
 | **Volvo** |
 || 1980 | 940GL | [20,000](https://www.facebook.com/marketplace/item/1590934574896772/) |
