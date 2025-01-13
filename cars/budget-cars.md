@@ -28,7 +28,6 @@
 | กค 3016 เชียงใหม่ | 1991 | B11 | [12,500](https://www.facebook.com/marketplace/item/1323491978810803/) |
 | กธ 4592 เชียงราย | 1996 | B13 | [29,999](https://www.facebook.com/marketplace/item/1279822446768566/) |
 | กฉ 1902 เชียงใหม่ | 1996 | Sentra | [29,000](https://www.facebook.com/marketplace/item/871100895005117/) |
-| งค 2045 เชียงใหม่ | 1997 | Presea | [25,000](https://www.facebook.com/marketplace/item/974310981132245/) |
 | **Mitsubishi** | **Champ** |
 | จพ 8530 เชียงใหม่ | 1990 || [27,500](https://www.facebook.com/marketplace/item/1932434867277096/) |
 | กธ 4670 เชียงใหม่ | 1992 || [20,000](https://www.facebook.com/marketplace/item/1307105347159487/) |
