@@ -17,7 +17,11 @@
 | **Toyota** | **Soluna** |
 | กต 5466 พะเยา | 1981 | 300,000+ km | [30,000](https://www.facebook.com/marketplace/item/988224879982697/) |
 | **Honda** |
-| กว 7218 เชียงใหม่ | 1993 | Civic || [29,000](https://www.facebook.com/marketplace/item/1410782539896270/) |
+|| 1992 | Civic; ทั้งคู่ 两辆打包 | [35,000](https://www.facebook.com/marketplace/item/543707148822981/) |
+| กค 5048 เชียงใหม่ | 1993 | Accord | [25,000](https://www.facebook.com/marketplace/item/1248936832882138/) |
+| กว 7218 เชียงใหม่ | 1993 | Civic | [29,000](https://www.facebook.com/marketplace/item/1410782539896270/) |
+| กว 7218 เชียงใหม่ | 1993 | Civic | [29,000](https://www.facebook.com/marketplace/item/575307885429639/) |
+| ฉช 2650 เชียงใหม่ | 2000 | Civic | [29,500](https://www.facebook.com/marketplace/item/1109659474231489/) |
 | กจ 6093 ลำพูน | 2000 | Type Z | [39,900](https://www.facebook.com/marketplace/item/1718242212053926/) |
 | **Nissan** |
 | กษ 5720 เชียงใหม่ | 1982 | Sunny | [25,000](https://www.facebook.com/marketplace/item/1015882200253850/) |
