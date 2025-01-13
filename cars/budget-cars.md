@@ -47,5 +47,9 @@
 | ฉข 2650 เชียงใหม่ | 2000 | Civic | [29,500](https://www.facebook.com/marketplace/item/1109659474231489/) |
 | **Suzuki** |
 | กจ 3745 เชียงใหม่ | 1994 | Swift | [20,000](https://www.facebook.com/marketplace/item/565090092921345/) |
+| **Ford** |
+| กร 3220 เชียงใหม่ | 1995 | Aspire | [25,000](https://www.facebook.com/marketplace/item/529612822957320/) |
 | **Volvo** |
 || 1980 | 940GL | [20,000](https://www.facebook.com/marketplace/item/1590934574896772/) |
+| **Kia** |
+| งท 6144 เชียงใหม่ | 2013 | Picanto; 淹水车 | [28,000](https://www.facebook.com/marketplace/item/1628485321274721/) |
