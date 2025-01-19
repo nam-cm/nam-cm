@@ -153,7 +153,6 @@
 | กท 1649 ลำปาง | 1974 || [40,000](https://www.facebook.com/marketplace/item/1859108044436207/) |
 | กห 3893 เชียงใหม่ | 1990 || [46,000](https://www.facebook.com/marketplace/item/2702364319961628/) |
 | **Toyota** | **Starlet** |
-|| 1971 || [40,000](https://www.facebook.com/marketplace/item/2765159580299936/) |
 | กต 3941 ลำพูน | 1984 | Overhauled engine 引擎翻新 | [39,000](https://www.facebook.com/marketplace/item/1693892048131648/) |
 | กต 4670 เชียงใหม่ | 1987 || [55,000](https://www.facebook.com/marketplace/item/1108230644091154/) |
 | **Honda** | 
