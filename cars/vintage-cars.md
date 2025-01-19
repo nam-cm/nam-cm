@@ -37,6 +37,7 @@
 | **Mercedes-Benz** | **W108** |
 | กฉ 5544 กรุงเทพมหานคร | 1968 | 280S | [380,000](https://www.facebook.com/marketplace/item/1232772117799334/) |
 | **Mercedes-Benz** | **W115** |
+| ขน 3305 เชียงใหม่ | 1975 | 220D | [180,000](https://www.facebook.com/marketplace/item/957775805842699/) |
 | กค 1878 พะเยา | 1978 || [155,000](https://www.facebook.com/marketplace/item/940967687548517/) |
 | กข 4499 เชียงใหม่ | 1980 | 240D | [290,000](https://www.facebook.com/marketplace/item/2010851712749178/) |
 | **Mercedes-Benz** | **W116** |
@@ -146,6 +147,7 @@
 | กข 5334 ลำพูน | 1995 | Corsa | [33,000](https://www.facebook.com/marketplace/item/1257554295539863/) |
 | **Toyota** | **Corolla** |
 | จธ 7610 เชียงใหม่ | 1963 || [159,000](https://www.facebook.com/marketplace/item/1026501249243575/) |
+|| 1967 || [200,000](https://www.facebook.com/marketplace/item/1034808891980179/) |
 | จย 1832 เชียงใหม่ | 1970 | KE35 | [155,000](https://www.facebook.com/marketplace/item/1297243594584520/) |
 | กก 34 เชียงใหม่ | 1971 | RT81 | [200,000](https://www.facebook.com/marketplace/item/1151518576310544/) |
 | กก 1409 เชียงใหม่ | 1974 | KE20 | [45,000](https://www.facebook.com/marketplace/item/1031999101768731/) |
