@@ -75,7 +75,11 @@
 | จก 549 เชียงใหม่ | 1995 | S280 | [169,000](https://www.facebook.com/marketplace/item/998759104862424/) |
 | งข 4265 เชียงใหม่ | 1995 | S280 | [179,000](https://www.facebook.com/marketplace/item/516196150773436/) |
 | **Mercedes-Benz** | **W210** |
+| จท 6351 เชียงใหม่ | 1994 | S280 | [145,000](https://www.facebook.com/marketplace/item/9254688561261609/) |
 | งธ 6527 เชียงใหม่ | 1995 | E220 | [88,000](https://www.facebook.com/marketplace/item/3854643701530593/) |
+| ถท 7379 กรุงเทพมหานคร | 2000 | E240 | [108,000](https://www.facebook.com/marketplace/item/850528446594753/) |
+| **BMW** | **E10** |
+| ขล 7640 เชียงใหม่ | 1973 | 2002 | [590,000](https://www.facebook.com/marketplace/item/2027480034389931/) |
 | **BMW** | **E12** |
 | * 6?66 เชียงใหม่ | 1982 | 520 | [190,000](https://www.facebook.com/marketplace/item/1002861041477218/) |
 | **BMW** | **E30** |
@@ -173,9 +177,11 @@
 | จย 8553 เชียงใหม่ | 1993 | Prelude | [189,000](https://www.facebook.com/marketplace/item/572197215772475/) |
 | **Mitsubishi** |
 || 1978 | Galant| [28,500](https://www.facebook.com/marketplace/item/1250931422685850/) |
-| กจ 2746 เชียงใหม่ | 1991 | Pajero| [245,000](https://www.facebook.com/marketplace/item/1128624711947524/) |
+| กจ 2746 เชียงใหม่ | 1991 | Pajero | [245,000](https://www.facebook.com/marketplace/item/1128624711947524/) |
 | กง 7576 เชียงใหม่ | 1993 | Pajero | [110,000](https://www.facebook.com/marketplace/item/1093058798871601/) |
+| กน 500 เชียงใหม่ | 1995 | Pajero | [140,000](https://www.facebook.com/marketplace/item/9899768936705103/) |
 | กก 9108 กาญจนบุรี | 1995 | Champ | [35,000](https://www.facebook.com/marketplace/item/2249806695401692/) |
+| งน 2107 เชียงใหม่ | 1996 | Lancer | [32,000](https://www.facebook.com/marketplace/item/1572297270160387/) |
 | **Nissan** |
 | ธน 6987 กรุงเทพมหานคร | 1973 | Datsun Sunny | [119,000](https://www.facebook.com/marketplace/item/1896200684207669/) |
 | กษ 5720 เชียงใหม่ | 1982 | Sunny | [30,000](https://www.facebook.com/marketplace/item/1015882200253850/) |
