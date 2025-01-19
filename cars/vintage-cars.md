@@ -105,7 +105,6 @@
 || 1980 | 500 | [24,444](https://www.facebook.com/marketplace/item/477252294907308/) |
 | งร 9861 เชียงใหม่ || 1500 | [220,000](https://www.facebook.com/marketplace/item/1273625720469869/) |
 | **Peugeot** |
-| ก 4729 ลำปาง | 1989 | 305 | [165,000](https://www.facebook.com/marketplace/item/538986929053095/) |
 | จธ 9056 เชียงใหม่ | 1989 | 405 | [40,000](https://www.facebook.com/marketplace/item/1932199723927270/) |
 | **Citroën** |
 | ธบ 6515 กรุงเทพมหานคร | 1970 | XM | [70,000](https://www.facebook.com/marketplace/item/1268451961056242/) |
