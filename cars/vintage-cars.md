@@ -164,7 +164,6 @@
 || 1994 | Civic | [35,000](https://www.facebook.com/marketplace/item/459123140521923/) |
 | **Mitsubishi** |
 || 1978 | Galant| [28,500](https://www.facebook.com/marketplace/item/1250931422685850/) |
-| 2ช 3843 กรุงเทพมหานคร | 1980 | Galant| [110,000](https://www.facebook.com/marketplace/item/492347460227707/) |
 | กจ 2746 เชียงใหม่ | 1991 | Pajero| [245,000](https://www.facebook.com/marketplace/item/1128624711947524/) |
 | กง 7576 เชียงใหม่ | 1993 | Pajero | [110,000](https://www.facebook.com/marketplace/item/1093058798871601/) |
 | กก 9108 กาญจนบุรี | 1995 | Champ | [35,000](https://www.facebook.com/marketplace/item/2249806695401692/) |
