@@ -30,7 +30,6 @@
 | กฉ 1902 เชียงใหม่ | 1996 | Sentra | [29,000](https://www.facebook.com/marketplace/item/871100895005117/) |
 | **Mitsubishi** | **Champ** |
 | จพ 8530 เชียงใหม่ | 1990 || [27,500](https://www.facebook.com/marketplace/item/1932434867277096/) |
-| กธ 4670 เชียงใหม่ | 1992 || [20,000](https://www.facebook.com/marketplace/item/1307105347159487/) |
 | กบ 4968 เชียงใหม่ | 1993 || [14,500](https://www.facebook.com/marketplace/item/575324831983551/) |
 | กก 3464 ลำพูน | 1993 || [15,000](https://www.facebook.com/marketplace/item/1321177208849647/) |
 | **Mitsubishi** | **Lancer** |
@@ -48,7 +47,5 @@
 | กจ 3745 เชียงใหม่ | 1994 | Swift | [20,000](https://www.facebook.com/marketplace/item/565090092921345/) |
 | **Ford** |
 | กร 3220 เชียงใหม่ | 1995 | Aspire | [25,000](https://www.facebook.com/marketplace/item/529612822957320/) |
-| **Volvo** |
-|| 1980 | 940GL | [20,000](https://www.facebook.com/marketplace/item/1590934574896772/) |
 | **Kia** |
 | งท 6144 เชียงใหม่ | 2013 | Picanto; 淹水车 | [28,000](https://www.facebook.com/marketplace/item/1628485321274721/) |
