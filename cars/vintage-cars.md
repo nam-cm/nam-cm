@@ -2,6 +2,8 @@
 
 | ทะเบียน 车牌号 | ปี 年份 | เบ็ดเตล็ด 备注 | ราคา 价格 |
 |---|---|---|---|
+| **Bentley** |
+|| 1994 | Brooklands | [2,490,000](https://www.facebook.com/marketplace/item/1037561657588137/) |
 | **Rolls-Royce** | 
 || 1996 | Silver Spur | [4,890,000](https://www.facebook.com/marketplace/item/935185451750858/) |
 | **Porsche** | 
@@ -40,6 +42,7 @@
 | **Mercedes-Benz** | **W116** |
 || 1980 | 280S | [50,000](https://www.facebook.com/marketplace/item/3921061621438516/) |
 | **Mercedes-Benz** | **W123** |
+| จท 230 เชียงใหม่ | 1984 | 230E | [79,000](https://www.facebook.com/marketplace/item/1000390561849265/) |
 | กล 4596 เชียงใหม่ | 1989 | 280E; Jeep Wrangler engine; มาลัยซ้าย 左舵 | [39,000](https://www.facebook.com/marketplace/item/1224084922014329/) |
 | **Mercedes-Benz** | **W126** |
 | งห 551 กรุงเทพมหานคร | 1987 | 500SEL | [32,000](https://www.facebook.com/marketplace/item/1511236406172762/) |
@@ -85,6 +88,8 @@
 | จฉ 316 เชียงใหม่ | 1990 | 316i | [129,000](https://www.facebook.com/marketplace/item/495365076315577/) |
 | กฉ 9750 ลำพูน | 1990 || [89,000](https://www.facebook.com/marketplace/item/2052046408574681/) |
 | กต 4644 เชียงใหม่ | 1991 | 318i | [35,000](https://www.facebook.com/marketplace/item/1094318498672829/) |
+| **BMW** | **E34** |
+| งต 5075 เชียงใหม่ | 1990 | 520i | [99,000](https://www.facebook.com/marketplace/item/1224655022197197/) |
 | **BMW** | **E36** |
 | จก 9701 เชียงใหม่ | 1992 | 318i | [109,000](https://www.facebook.com/marketplace/item/1143544263903123/) |
 | กค 6508  ลำพูน | 1993 | 318i | [550,000](https://www.facebook.com/marketplace/item/2600605510149187/) |
@@ -92,6 +97,8 @@
 | กน 7011 เชียงใหม่ | 1995 | 318i | [69,000](https://www.facebook.com/marketplace/item/3276879919114233/) |
 | **BMW** | **E38** |
 | งล 6904 เชียงใหม่ | 1995 | 740Li; full restoration 完整翻新 | [450,000](https://www.facebook.com/marketplace/item/1735392450371325/) |
+| **BMW** | **E39** |
+| จพ 94 เชียงใหม่ | 1997 | 528iA | [119,000](https://www.facebook.com/marketplace/item/1624774871582794/) |
 | **Mini** |
 | จต 56 เชียงใหม่ | 1974 | Austin Mini | [1,300,000](https://www.facebook.com/marketplace/item/1134572238246922/) |
 | 7อ 6029 กรุงเทพมหานคร | 1993 | Cooper | [2,199,000](https://www.facebook.com/marketplace/item/1230685648162910/) |
@@ -154,20 +161,25 @@
 | **Toyota** | **Starlet** |
 | กต 3941 ลำพูน | 1984 | Overhauled engine 引擎翻新 | [39,000](https://www.facebook.com/marketplace/item/1693892048131648/) |
 | กต 4670 เชียงใหม่ | 1987 || [55,000](https://www.facebook.com/marketplace/item/1108230644091154/) |
-| **Honda** | 
-| จก 9871 เชียงใหม่ | 1988 | Civic | [89,999](https://www.facebook.com/marketplace/item/4030979447225797/) |
-| กฉ 7435 เชียงใหม่ | 1989 | Civic | [36,000](https://www.facebook.com/marketplace/item/1196695148419982/) |
-| งฉ 6514 เชียงใหม่ | 1992 | Prelude | [195,000](https://www.facebook.com/marketplace/item/883260780334857/) |
-| จย 8553 เชียงใหม่ | 1993 | Prelude | [189,000](https://www.facebook.com/marketplace/item/572197215772475/) |
+| **Honda** | **Civic** |
+| จก 9871 เชียงใหม่ | 1988 || [89,999](https://www.facebook.com/marketplace/item/4030979447225797/) |
+| กฉ 7435 เชียงใหม่ | 1989 || [36,000](https://www.facebook.com/marketplace/item/1196695148419982/) |
 || 1993 | Civic | [65,000](https://www.facebook.com/marketplace/item/453217804210240/) |
 || 1994 | Civic | [35,000](https://www.facebook.com/marketplace/item/459123140521923/) |
+| ฌย 2261 กรุงเทพมหานคร | 1994 || [129,000](https://www.facebook.com/marketplace/item/627309586370469/) |
+| ขม 6825 เชียงใหม่ | 1995 || [70,000](https://www.facebook.com/marketplace/item/8573254316061618/) |
+| **Honda** | **Prelude** |
+| งฉ 6514 เชียงใหม่ | 1992 | Prelude | [195,000](https://www.facebook.com/marketplace/item/883260780334857/) |
+| จย 8553 เชียงใหม่ | 1993 | Prelude | [189,000](https://www.facebook.com/marketplace/item/572197215772475/) |
 | **Mitsubishi** |
 || 1978 | Galant| [28,500](https://www.facebook.com/marketplace/item/1250931422685850/) |
 | กจ 2746 เชียงใหม่ | 1991 | Pajero| [245,000](https://www.facebook.com/marketplace/item/1128624711947524/) |
 | กง 7576 เชียงใหม่ | 1993 | Pajero | [110,000](https://www.facebook.com/marketplace/item/1093058798871601/) |
 | กก 9108 กาญจนบุรี | 1995 | Champ | [35,000](https://www.facebook.com/marketplace/item/2249806695401692/) |
 | **Nissan** |
+| ธน 6987 กรุงเทพมหานคร | 1973 | Datsun Sunny | [119,000](https://www.facebook.com/marketplace/item/1896200684207669/) |
 | กษ 5720 เชียงใหม่ | 1982 | Sunny | [30,000](https://www.facebook.com/marketplace/item/1015882200253850/) |
+| ขม 2502 เชียงใหม่ | 1992 | Cefiro | [95,000](https://www.facebook.com/marketplace/item/9290429607657317/) |
 | จพ 4691 เชียงใหม่ | 1994 | Bluebird SSS | [50,000](https://www.facebook.com/marketplace/item/914656783637929/) |
 | **Suzuki** |
 | จจ 4472 เชียงใหม่ | 1986 | Jimmy | [385,000](https://www.facebook.com/marketplace/item/1231627428059038/) |
