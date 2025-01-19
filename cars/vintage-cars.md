@@ -40,7 +40,6 @@
 | **Mercedes-Benz** | **W116** |
 || 1980 | 280S | [50,000](https://www.facebook.com/marketplace/item/3921061621438516/) |
 | **Mercedes-Benz** | **W123** |
-| จย 3523 เชียงใหม่ | 1989 | 230 | [85,000](https://www.facebook.com/marketplace/item/574294882234626/) |
 | กล 4596 เชียงใหม่ | 1989 | 280E; Jeep Wrangler engine; มาลัยซ้าย 左舵 | [39,000](https://www.facebook.com/marketplace/item/1224084922014329/) |
 | **Mercedes-Benz** | **W126** |
 | งห 551 กรุงเทพมหานคร | 1987 | 500SEL | [32,000](https://www.facebook.com/marketplace/item/1511236406172762/) |
