@@ -201,7 +201,6 @@
 | **Mazda** | **323** |
 | กธ 8354 แพร่ | 1995 || [450,000](https://www.facebook.com/marketplace/item/566989896218825/) |
 | **Daihatsu** | **Mira** |
-| ยพ 3693 เชียงใหม่ | 1990 || [169,000](https://www.facebook.com/marketplace/item/1276990976839437/) |
 | กค 4912 เชียงใหม่ | 1990 || [70,000](https://www.facebook.com/marketplace/item/8763586377052978/) |
 | กข 9956 ลำพูน | 1993 || [37,000](https://www.facebook.com/marketplace/item/1746617792846520/) |
 | กต 7136 อุตรดิตถ์ | 1994 || [53,000](https://www.facebook.com/marketplace/item/794335526209918/) |
