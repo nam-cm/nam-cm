@@ -175,7 +175,6 @@
 | ฌย 2261 กรุงเทพมหานคร | 1994 || [129,000](https://www.facebook.com/marketplace/item/627309586370469/) |
 | ขม 6825 เชียงใหม่ | 1995 || [70,000](https://www.facebook.com/marketplace/item/8573254316061618/) |
 | **Honda** | **Prelude** |
-| งฉ 6514 เชียงใหม่ | 1992 | Prelude | [195,000](https://www.facebook.com/marketplace/item/883260780334857/) |
 | จย 8553 เชียงใหม่ | 1993 | Prelude | [189,000](https://www.facebook.com/marketplace/item/572197215772475/) |
 | **Mitsubishi** |
 || 1978 | Galant| [28,500](https://www.facebook.com/marketplace/item/1250931422685850/) |
