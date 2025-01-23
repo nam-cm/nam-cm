@@ -172,7 +172,6 @@
 | กฉ 7435 เชียงใหม่ | 1989 || [36,000](https://www.facebook.com/marketplace/item/1196695148419982/) |
 || 1993 | Civic | [65,000](https://www.facebook.com/marketplace/item/453217804210240/) |
 || 1994 | Civic | [35,000](https://www.facebook.com/marketplace/item/459123140521923/) |
-| ฌย 2261 กรุงเทพมหานคร | 1994 || [129,000](https://www.facebook.com/marketplace/item/627309586370469/) |
 | ขม 6825 เชียงใหม่ | 1995 || [70,000](https://www.facebook.com/marketplace/item/8573254316061618/) |
 | **Honda** | **Prelude** |
 | จย 8553 เชียงใหม่ | 1993 | Prelude | [189,000](https://www.facebook.com/marketplace/item/572197215772475/) |
